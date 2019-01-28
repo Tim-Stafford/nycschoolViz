@@ -1,0 +1,15 @@
+library(tidyverse)
+library(sf)
+library(htmltab)
+
+
+data <-  read.csv(file = 'data/2017schoollocations.csv')
+
+data$Location.1 <- gsub(".*\\(","",data$Location.1)
+data$Location.1 <- gsub("\\)","",data$Location.1)
+data <- separate(data,col = Location.1, c("lat", "lon"), ",")
+
+write.csv(data, 'data/schoolslatlon.csv')
+
+
+

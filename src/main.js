@@ -9,7 +9,8 @@ function initializeData(csv) {
       lat: +d.lat,
       lon: +d.lon,
       school: d.LOCATION_NAME,
-      schoolType: d.schoolType
+      schoolType: d.schoolType,
+      economicNeedIndex: +d.economicNeedIndex
     }
   });
 }
@@ -63,7 +64,12 @@ function addSchools() {
 
      }
         })
-                }
+}
+
+
+
+
+
 
 
 

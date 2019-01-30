@@ -1,0 +1,56 @@
+
+
+---
+title: "nycSchools"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library('tidyverse')
+library('janitor')
+
+
+schoolMaster <- read.csv("data/schoolslatlon.csv")
+schoolQuality <- read.csv('data/schoolQualityReport2017.csv')
+schoolImpact <- read.csv('data/impact_performance.csv')
+
+
+schoolMaster <- schoolMaster %>%
+  clean_names() %>%
+  rename(dbn = ats_system_code)
+
+schoolImpact <- schoolImpact %>%
+  clean_names()
+
+schoolQuality <- schoolQuality %>%
+  clean_names()
+
+
+schoolMap <- schoolMaster %>%
+  left_join(schoolImpact, by = "dbn")
+
+ggplot (schoolMap, aes(poverty_percentage, performance)) +
+  geom_point()+
+  geom_smooth()
+  
+
+```
+
+```{r}
+
+performanceMean <- schoolMap %>%
+  group_by(school_type.x) %>%
+  summarise(mean(impact, na.rm = TRUE))
+
+
+schoolMap %>%
+ggplot(aes(poverty_percentage, performance, color = school_type.x)) +
+  geom_smooth() +
+  geom_point() +
+    geom_hline(yintercept = .5095, color = "Black" )
+
+
+
+
+```

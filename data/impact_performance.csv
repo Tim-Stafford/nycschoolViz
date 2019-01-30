@@ -1,0 +1,1917 @@
+District,DBN,School Type,Report Type,School Name,Impact,Performance
+1,01M015,Elementary,EMS,P.S. 015 Roberto Clemente,0.87,0.62
+1,01M019,Elementary,EMS,P.S. 019 Asher Levy,0.59,0.56
+1,01M020,Elementary,EMS,P.S. 020 Anna Silver,0.39,0.33
+1,01M034,K-8,EMS,P.S. 034 Franklin D. Roosevelt,0.35,0.3
+1,01M063,Elementary,EMS,The STAR Academy - P.S.63,0.92,0.62
+1,01M064,Elementary,EMS,P.S. 064 Robert Simon,0.43,0.34
+1,01M110,Elementary,EMS,P.S. 110 Florence Nightingale,0.63,0.76
+1,01M134,Elementary,EMS,P.S. 134 Henrietta Szold,0.54,0.29
+1,01M140,K-8,EMS,P.S. 140 Nathan Straus,0.35,0.26
+1,01M142,Elementary,EMS,P.S. 142 Amalia Castro,0.66,0.38
+1,01M184,K-8,EMS,P.S. 184m Shuang Wen,0.62,0.75
+1,01M188,K-8,EMS,P.S. 188 The Island School,0.78,0.4
+1,01M292,High School,HS,Orchard Collegiate Academy,0.6,0.45
+1,01M301,Middle,EMS,"Technology, Arts, and Sciences Studio",0.35,0.27
+1,01M315,Elementary,EMS,The East Village Community School,0.38,0.71
+1,01M332,Middle,EMS,University Neighborhood Middle School,0.31,0.19
+1,01M361,Elementary,EMS,The Childrens Workshop School,0.57,0.64
+1,01M363,Elementary,EMS,Neighborhood School,0.36,0.58
+1,01M364,Elementary,EMS,Earth School,0.26,0.41
+1,01M378,Middle,EMS,School for Global Leaders,0.39,0.29
+1,01M448,High School,HS,University Neighborhood High School,0.68,0.61
+1,01M450,High School,HS,East Side Community School,0.52,0.71
+1,01M450,Middle,EMS,East Side Community School,0.22,0.56
+1,01M458,High School Transfer,HST,Forsyth Satellite Academy,0.66,0.45
+1,01M509,High School,HS,Marta Valle High School,0.41,0.32
+1,01M515,High School Transfer,HST,Lower East Side Preparatory High School,0.58,0.67
+1,01M539,High School,HS,"New Explorations into Science, Technology and Math",0.6,0.85
+1,01M539,K-8,EMS,"New Explorations into Science, Technology and Math",0.51,0.96
+1,01M650,High School Transfer,HST,Cascades High School,0.48,0.42
+1,01M696,High School,HS,Bard High School Early College,0.44,0.86
+1,01M839,Middle,EMS,Tompkins Square Middle School,0.48,0.56
+2,02M001,Elementary,EMS,P.S. 001 Alfred E. Smith,0.5,0.52
+2,02M002,Elementary,EMS,P.S. 002 Meyer London,0.6,0.67
+2,02M003,Elementary,EMS,P.S. 003 Charrette School,0.33,0.79
+2,02M006,Elementary,EMS,P.S. 006 Lillie D. Blake,0.59,0.96
+2,02M011,Elementary,EMS,P.S. 011 William T. Harris,0.53,0.75
+2,02M033,Elementary,EMS,P.S. 033 Chelsea Prep,0.33,0.63
+2,02M040,Elementary,EMS,P.S. 040 Augustus Saint-Gaudens,0.58,0.95
+2,02M041,Elementary,EMS,P.S. 041 Greenwich Village,0.61,0.95
+2,02M042,Elementary,EMS,P.S. 042 Benjamin Altman,0.67,0.76
+2,02M047,High School,HS,47 The American Sign Language and English Secondar,0.68,0.58
+2,02M051,Elementary,EMS,P.S. 051 Elias Howe,0.24,0.46
+2,02M059,Elementary,EMS,P.S. 059 Beekman Hill International,0.58,0.92
+2,02M077,Elementary,EMS,P.S. 77 Lower Lab School,0.79,0.97
+2,02M089,Elementary,EMS,P.S. 89,0.59,0.95
+2,02M104,Middle,EMS,J.H.S. 104 Simon Baruch,0.41,0.76
+2,02M111,Elementary,EMS,P.S. 111 Adolph S. Ochs,0.5,0.45
+2,02M114,Middle,EMS,East Side Middle School,0.64,0.96
+2,02M116,Elementary,EMS,P.S. 116 Mary Lindley Murray,0.44,0.67
+2,02M124,Elementary,EMS,P.S. 124 Yung Wing,0.83,0.92
+2,02M126,K-8,EMS,P.S. 126 Jacob August Riis,0.69,0.75
+2,02M130,Elementary,EMS,P.S. 130 Hernando De Soto,0.68,0.93
+2,02M131,Middle,EMS,M.S. 131,0.56,0.52
+2,02M135,High School,HS,The Urban Assembly School for Emergency Management,0.58,0.47
+2,02M139,High School,HS,Stephen T. Mather Building Arts  Craftsmanship Hi,0.48,0.49
+2,02M150,Elementary,EMS,P.S. 150,0.71,0.95
+2,02M151,Elementary,EMS,Yorkville Community School,0.47,0.65
+2,02M158,Elementary,EMS,P.S. 158 Bayard Taylor,0.37,0.92
+2,02M167,Middle,EMS,J.H.S. 167 Robert F. Wagner,0.54,0.87
+2,02M177,Middle,EMS,Yorkville East Middle School,0.6,0.73
+2,02M183,Elementary,EMS,P.S. 183 Robert L. Stevenson,0.54,0.95
+2,02M198,Elementary,EMS,P.S. 198 Isador E. Ida Straus,0.59,0.78
+2,02M212,Elementary,EMS,P.S. 212 Midtown West,0.48,0.83
+2,02M217,K-8,EMS,P.S./I.S. 217 Roosevelt Island,0.49,0.67
+2,02M225,K-8,EMS,Ella Baker School,0.53,0.54
+2,02M234,Elementary,EMS,P.S. 234 Independence School,0.61,0.93
+2,02M255,Middle,EMS,M.S. 255 Salk School of Science,0.51,0.96
+2,02M260,High School,HS,M.S. 260 Clinton School Writers  Artists,0.64,0.86
+2,02M260,Middle,EMS,M.S. 260 Clinton School Writers  Artists,0.45,0.96
+2,02M267,Elementary,EMS,"East Side Elementary School, PS 267",0.56,0.93
+2,02M276,K-8,EMS,Battery Park City School,0.59,0.82
+2,02M280,High School,HS,Manhattan Early College School for Advertising,0.66,0.67
+2,02M281,Elementary,EMS,The River School,,
+2,02M282,High School,HS,Urban Assembly Maker Academy,0.35,0.5
+2,02M288,High School,HS,Food and Finance High School,0.5,0.49
+2,02M289,Middle,EMS,I.S. 289,0.5,0.76
+2,02M290,Elementary,EMS,P.S. 290 Manhattan New School,0.63,0.96
+2,02M294,High School,HS,Essex Street Academy,0.65,0.62
+2,02M296,High School,HS,High School of Hospitality Management,0.59,0.42
+2,02M297,Middle,EMS,M.S. 297,,
+2,02M298,High School,HS,Pace High School,0.52,0.57
+2,02M300,High School,HS,"Urban Assembly School of Design and Construction,",0.34,0.32
+2,02M303,High School,HS,"Facing History School, The",0.49,0.34
+2,02M305,High School,HS,"Urban Assembly Academy of Government and Law, The",0.6,0.46
+2,02M308,High School,HS,Lower Manhattan Arts Academy,0.63,0.44
+2,02M312,Middle,EMS,New York City Lab Middle School for Collaborative,0.54,0.94
+2,02M313,High School Transfer,HST,"James Baldwin School, The: A School for Expedition",0.55,0.49
+2,02M316,High School,HS,"Urban Assembly School of Business for Young Women,",0.23,0.29
+2,02M343,Elementary,EMS,The Peck Slip School,0.41,0.83
+2,02M347,K-8,EMS,The 47 American Sign Language  English Lower Scho,0.9,0.45
+2,02M374,High School,HS,Gramercy Arts High School,0.39,0.5
+2,02M376,High School,HS,NYC iSchool,0.6,0.82
+2,02M392,High School,HS,MANHATTAN BUSINESS ACADEMY,0.58,0.54
+2,02M393,High School,HS,Business Of Sports School,0.59,0.48
+2,02M394,High School Transfer,HST,Emma Lazarus High School,0.8,0.8
+2,02M397,K-8,EMS,Spruce Street School,0.56,0.82
+2,02M399,High School,HS,The High School For Language And Diplomacy,0.48,0.47
+2,02M400,High School,HS,High School for Environmental Studies,0.38,0.49
+2,02M407,High School,HS,Institute for Collaborative Education,0.59,0.77
+2,02M407,Middle,EMS,Institute for Collaborative Education,0.53,0.54
+2,02M408,High School,HS,Professional Performing Arts High School,0.49,0.78
+2,02M408,Middle,EMS,Professional Performing Arts High School,0.25,0.91
+2,02M411,High School,HS,Baruch College Campus High School,0.67,0.9
+2,02M412,High School,HS,N.Y.C. Lab School for Collaborative Studies,0.67,0.88
+2,02M413,High School,HS,School of the Future High School,0.57,0.82
+2,02M413,Middle,EMS,School of the Future High School,0.43,0.72
+2,02M414,High School,HS,N.Y.C. Museum School,0.69,0.86
+2,02M416,High School,HS,Eleanor Roosevelt High School,0.62,0.91
+2,02M418,High School,HS,Millennium High School,0.65,0.9
+2,02M419,High School,HS,Landmark High School,0.62,0.46
+2,02M420,High School,HS,High School for Health Professions and Human Servi,0.63,0.67
+2,02M422,High School,HS,Quest to Learn,0.51,0.48
+2,02M422,Middle,EMS,Quest to Learn,0.29,0.42
+2,02M425,High School,HS,Leadership and Public Service High School,0.47,0.39
+2,02M427,High School,HS,MANHATTAN ACADEMY FOR ARTS  LANGUAGE,0.48,0.33
+2,02M432,High School,HS,Murray Hill Academy,,
+2,02M437,High School,HS,Hudson High School of Learning Technologies,0.4,0.42
+2,02M438,High School,HS,International High School at Union Square,0.57,0.48
+2,02M439,High School,HS,Manhattan Village Academy,0.81,0.9
+2,02M442,K-8,EMS,"Ballet Tech, NYC Public School for Dance",0.56,0.85
+2,02M449,High School,HS,Vanguard High School,0.44,0.48
+2,02M459,High School,HS,Manhattan International High School,0.56,0.46
+2,02M473,YABC,YABC,Washington Irving Yabc,0.51,0.5
+2,02M475,High School,HS,Stuyvesant High School,0.5,0.91
+2,02M489,High School,HS,High School of Economics and Finance,0.56,0.59
+2,02M500,High School,HS,Unity Center for Urban Technologies,0.72,0.53
+2,02M507,High School,HS,Urban Assembly Gateway School for Technology,0.67,0.7
+2,02M519,High School,HS,Talent Unlimited High School,0.57,0.78
+2,02M520,High School,HS,Murry Bergtraum High School for Business Careers,0.24,0.2
+2,02M527,Elementary,EMS,P.S. 527 - East Side School for Social Action,0.73,0.99
+2,02M529,High School,HS,Jacqueline Kennedy Onassis High School,0.46,0.3
+2,02M531,High School,HS,Repertory Company High School for Theatre Arts,0.65,0.76
+2,02M533,High School,HS,Union Square Academy for Health Sciences,0.5,0.54
+2,02M534,High School,HS,Harvest Collegiate High School,0.53,0.64
+2,02M542,High School,HS,Manhattan Bridges High School,0.85,0.68
+2,02M543,High School,HS,New Design High School,0.57,0.43
+2,02M544,High School Transfer,HST,Independence High School,0.39,0.32
+2,02M545,High School,HS,High School for Dual Language and Asian Studies,0.65,0.89
+2,02M546,High School,HS,Academy for Software Engineering,0.65,0.67
+2,02M550,High School Transfer,HST,Liberty High School Academy for Newcomers,0.75,0.55
+2,02M551,High School,HS,Urban Assembly New York Harbor School,0.4,0.53
+2,02M560,High School Transfer,HST,High School M560 - City As School,0.4,0.47
+2,02M565,High School Transfer,HST,Urban Academy Laboratory High School,0.46,0.69
+2,02M570,High School Transfer,HST,Satellite Academy High School,0.56,0.32
+2,02M575,High School Transfer,HST,Manhattan Comprehensive Night and Day High School,0.57,0.55
+2,02M580,High School,HS,Richard R. Green High School of Teaching,0.36,0.4
+2,02M586,High School Transfer,HST,Harvey Milk High School,0.66,0.5
+2,02M600,High School,HS,The High School of Fashion Industries,0.72,0.68
+2,02M605,High School,HS,Humanities Preparatory Academy,,
+2,02M615,High School,HS,Chelsea Career and Technical Education High School,0.61,0.54
+2,02M630,High School,HS,Art and Design High School,0.5,0.66
+2,02M655,High School,HS,Life Sciences Secondary School,0.3,0.34
+2,02M655,Middle,EMS,Life Sciences Secondary School,0.33,0.2
+2,02M896,Middle,EMS,Lower Manhattan Community Middle School,0.62,0.68
+2,02M933,Middle,EMS,City Knoll Middle School,0.5,0.39
+3,03M009,Elementary,EMS,P.S. 009 Sarah Anderson,0.54,0.91
+3,03M054,Middle,EMS,J.H.S. 054 Booker T. Washington,0.5,0.94
+3,03M075,Elementary,EMS,P.S. 075 Emily Dickinson,0.58,0.44
+3,03M076,K-8,EMS,P.S. 076 A. Philip Randolph,0.25,0.16
+3,03M084,Elementary,EMS,P.S. 084 Lillian Weber,0.3,0.57
+3,03M087,Elementary,EMS,P.S. 087 William Sherman,0.65,0.88
+3,03M145,Elementary,EMS,"P.S. 145, The Bloomingdale School",0.24,0.2
+3,03M149,K-8,EMS,P.S. 149 Sojourner Truth,0.34,0.18
+3,03M163,Elementary,EMS,P.S. 163 Alfred E. Smith,0.52,0.63
+3,03M165,K-8,EMS,P.S. 165 Robert E. Simon,0.35,0.32
+3,03M166,Elementary,EMS,P.S. 166 The Richard Rodgers School of The Arts an,0.45,0.93
+3,03M180,K-8,EMS,P.S. 180 Hugo Newman,0.28,0.35
+3,03M191,K-8,EMS,The Riverside School for Makers and Artists,0.34,0.23
+3,03M199,Elementary,EMS,P.S. 199 Jessie Isador Straus,0.58,0.96
+3,03M208,Elementary,EMS,The Alain L. Locke Magnet School for Environmental,0.5,0.29
+3,03M241,Elementary,EMS,STEM Institute of Manhattan,0.31,0.22
+3,03M242,Elementary,EMS,P.S. 242 - The Young Diplomats Magnet Academy,0.32,0.24
+3,03M243,Middle,EMS,M.S. 243 Center School,0.64,0.95
+3,03M245,Middle,EMS,M.S. M245 The Computer School,0.54,0.85
+3,03M247,Middle,EMS,M.S. M247 Dual Language Middle School,0.68,0.54
+3,03M250,Middle,EMS,M.S. 250 West Side Collaborative Middle School,0.3,0.32
+3,03M256,Middle,EMS,Lafayette Academy,0.55,0.39
+3,03M258,Middle,EMS,Community Action School - MS 258,0.52,0.43
+3,03M291,Middle,EMS,West End Secondary School,0.53,0.94
+3,03M299,High School,HS,The Maxine Greene HS for Imaginative Inquiry,0.43,0.24
+3,03M307,High School,HS,"Urban Assembly School for Media Studies, The",0.48,0.42
+3,03M333,K-8,EMS,P.S. 333 Manhattan School for Children,0.44,0.67
+3,03M334,K-8,EMS,The Anderson School,0.56,0.96
+3,03M402,High School,HS,The Urban Assembly School for Green Careers,0.52,0.38
+3,03M403,High School,HS,The Global Learning Collaborative,0.51,0.36
+3,03M404,High School Transfer,HST,Innovation Diploma Plus,0.58,0.49
+3,03M415,High School,HS,Wadleigh Secondary School for the Performing  Vis,0.43,0.4
+3,03M415,Middle,EMS,Wadleigh Secondary School for the Performing  Vis,0.46,0.25
+3,03M417,High School,HS,Frank Mccourt High School,0.48,0.73
+3,03M421,Middle,EMS,West Prep Academy,0.58,0.37
+3,03M452,Elementary,EMS,P.S. 452,0.75,0.91
+3,03M479,High School,HS,Beacon High School,0.5,0.83
+3,03M485,High School,HS,Fiorello H. LaGuardia High School of Music  Art a,0.51,0.9
+3,03M492,High School,HS,"High School for Law, Advocacy and Community Justic",0.49,0.44
+3,03M494,High School,HS,High School of Arts and Technology,0.34,0.23
+3,03M505,High School Transfer,HST,Edward A. Reynolds West Side High School,0.35,0.3
+3,03M541,High School,HS,Manhattan / Hunter Science High School,0.66,0.89
+3,03M859,High School,HS,Special Music School,0.58,0.81
+3,03M859,K-8,EMS,Special Music School,0.82,0.98
+3,03M860,High School,HS,Frederick Douglass Academy II Secondary School,0.45,0.33
+3,03M860,Middle,EMS,Frederick Douglass Academy II Secondary School,0.63,0.3
+3,03M862,Middle,EMS,Mott Hall II,0.63,0.71
+4,04M007,K-8,EMS,P.S. 007 Samuel Stern,0.46,0.37
+4,04M012,K-8,EMS,Tag Young Scholars,0.64,0.95
+4,04M037,Elementary,EMS,River East Elementary,0.52,0.45
+4,04M038,Elementary,EMS,P.S. 38 Roberto Clemente,0.26,0.14
+4,04M050,K-8,EMS,P.S. 050 Vito Marcantonio,0.35,0.2
+4,04M057,K-8,EMS,James Weldon Johnson,0.19,0.28
+4,04M072,K-8,EMS,The Lexington Academy,0.25,0.28
+4,04M083,Elementary,EMS,P.S. 083 Luis Munoz Rivera,0.55,0.53
+4,04M096,K-8,EMS,P.S. 096 Joseph Lanzetta,0.22,0.16
+4,04M102,Elementary,EMS,P.S. 102 Jacques Cartier,0.35,0.36
+4,04M108,K-8,EMS,P.S. 108 Assemblyman Angelo Del Toro Educational C,0.44,0.25
+4,04M146,Elementary,EMS,P.S. 146 Ann M. Short,0.66,0.34
+4,04M155,Elementary,EMS,P.S. 155 William Paca,0.37,0.2
+4,04M171,K-8,EMS,P.S. 171 Patrick Henry,0.62,0.69
+4,04M182,Elementary,EMS,The Bilingual Bicultural School,0.65,0.46
+4,04M206,K-8,EMS,P.S. 206 Jose Celso Barbosa,0.4,0.28
+4,04M224,Middle,EMS,M.S. 224 Manhattan East School for Arts  Academic,0.51,0.51
+4,04M310,High School Transfer,HST,THE JUDITH S. KAYE HIGH SCHOOL,,
+4,04M372,High School,HS,Esperanza Preparatory Academy,0.5,0.41
+4,04M372,Middle,EMS,Esperanza Preparatory Academy,0.48,0.29
+4,04M375,Elementary,EMS,Mosaic Preparatory Academy,0.59,0.31
+4,04M377,Middle,EMS,Renaissance School of the Arts,0.61,0.34
+4,04M406,Middle,EMS,Global Technology Preparatory,0.29,0.2
+4,04M409,High School,HS,Coalition School for Social Change,0.49,0.29
+4,04M435,High School,HS,Manhattan Center for Science and Mathematics,0.66,0.8
+4,04M495,High School,HS,Park East High School,0.8,0.75
+4,04M497,Elementary,EMS,Central Park East I,0.55,0.55
+4,04M555,High School,HS,Central Park East High School,0.76,0.8
+4,04M610,High School,HS,Young Womens Leadership School,0.77,0.83
+4,04M610,Middle,EMS,Young Womens Leadership School,0.51,0.63
+4,04M680,High School,HS,"Heritage School, The",0.55,0.34
+4,04M825,Middle,EMS,Isaac Newton Middle School for Math  Science,0.61,0.42
+4,04M964,K-8,EMS,Central Park East II,0.26,0.38
+5,05M030,Elementary,EMS,P.S. 030 Hernandez/Hughes,0.71,0.35
+5,05M036,Elementary,EMS,P.S. 036 Margaret Douglas,0.54,0.32
+5,05M046,K-8,EMS,P.S. 046 Arthur Tappan,0.42,0.2
+5,05M092,Elementary,EMS,P.S. 092 Mary McLeod Bethune,0.36,0.23
+5,05M123,K-8,EMS,P.S. 123 Mahalia Jackson,0.44,0.22
+5,05M125,Elementary,EMS,P.S. 125 Ralph Bunche,0.23,0.54
+5,05M129,K-8,EMS,P.S. 129 John H. Finley,0.46,0.27
+5,05M133,Elementary,EMS,P.S. 133 Fred R Moore,0.32,0.17
+5,05M148,High School,HS,Eagle Academy for Young Men of Harlem,0.34,0.35
+5,05M148,Middle,EMS,Eagle Academy for Young Men of Harlem,0.19,0.22
+5,05M154,Elementary,EMS,P.S. 154 Harriet Tubman,0.2,0.17
+5,05M157,High School,HS,The Urban Assembly School for Global Commerce,0.24,0.17
+5,05M161,K-8,EMS,P.S. 161 Pedro Albizu Campos,0.35,0.27
+5,05M175,Elementary,EMS,P.S. 175 Henry H Garnet,0.44,0.28
+5,05M194,Elementary,EMS,P.S. 194 Countee Cullen,0.38,0.2
+5,05M197,Elementary,EMS,P.S. 197 John B. Russwurm,0.34,0.15
+5,05M200,Elementary,EMS,P.S. 200- The James Mccune Smith School,0.58,0.27
+5,05M285,High School Transfer,HST,Harlem Renaissance High School,0.39,0.25
+5,05M286,Middle,EMS,Urban Assembly Academy for Future Leaders,0.35,0.19
+5,05M302,Middle,EMS,KAPPA IV,0.41,0.18
+5,05M304,High School,HS,Mott Hall High School,0.42,0.29
+5,05M318,Elementary,EMS,Thurgood Marshall Academy Lower School,0.26,0.44
+5,05M362,High School,HS,Columbia Secondary School,0.49,0.79
+5,05M362,Middle,EMS,Columbia Secondary School,0.63,0.95
+5,05M367,High School,HS,Academy for Social Action,0.25,0.09
+5,05M369,High School,HS,Urban Assembly School for the Performing Arts,0.49,0.35
+5,05M499,High School,HS,Frederick Douglass Academy,0.48,0.48
+5,05M499,Middle,EMS,Frederick Douglass Academy,0.17,0.17
+5,05M514,Middle,EMS,New Design Middle School,0.39,0.19
+5,05M517,Elementary,EMS,Teachers College Community School,0.5,0.47
+5,05M670,High School,HS,Thurgood Marshall Academy for Learning and Social,0.36,0.44
+5,05M670,Middle,EMS,Thurgood Marshall Academy for Learning and Social,0.18,0.34
+5,05M692,High School,HS,"High School for Mathematics, Science and Engineeri",0.57,0.9
+6,06M004,Elementary,EMS,P.S. 004 Duke Ellington,0.39,0.21
+6,06M005,Elementary,EMS,P.S. 005 Ellen Lurie,0.43,0.32
+6,06M008,Elementary,EMS,P.S. 008 Luis Belliard,0.6,0.33
+6,06M018,K-8,EMS,P.S. 018 Park Terrace,0.32,0.25
+6,06M028,Elementary,EMS,P.S. 028 Wright Brothers,0.39,0.35
+6,06M048,Elementary,EMS,P.S. 048 P.O. Michael J. Buczek,0.31,0.24
+6,06M052,Middle,EMS,J.H.S. 052 Inwood,0.53,0.34
+6,06M098,Elementary,EMS,P.S. 098 Shorac Kappock,0.46,0.23
+6,06M103,Elementary,EMS,Dos Puentes Elementary School,,
+6,06M115,Elementary,EMS,P.S. 115 Alexander Humboldt,0.32,0.26
+6,06M128,Elementary,EMS,P.S. 128 Audubon,0.37,0.3
+6,06M132,Elementary,EMS,P.S. 132 Juan Pablo Duarte,0.51,0.25
+6,06M143,Middle,EMS,J.H.S. 143 Eleanor Roosevelt,0.47,0.2
+6,06M152,Elementary,EMS,P.S. 152 Dyckman Valley,0.34,0.28
+6,06M153,Elementary,EMS,P.S. 153 Adam Clayton Powell,0.4,0.36
+6,06M173,Elementary,EMS,P.S. 173,0.43,0.38
+6,06M178,Elementary,EMS,Professor Juan Bosch Public School,0.32,0.56
+6,06M187,K-8,EMS,P.S./I.S. 187 Hudson Cliffs,0.44,0.61
+6,06M189,Elementary,EMS,P.S. 189,0.45,0.36
+6,06M192,Elementary,EMS,P.S. 192 Jacob H. Schiff,0.52,0.3
+6,06M209,Middle,EMS,Hamilton Grange Middle School,0.47,0.37
+6,06M210,K-8,EMS,P.S./I.S. 210 - Twenty-first Century Academy for C,0.54,0.53
+6,06M211,High School,HS,Inwood Early College for Health and Information Te,0.56,0.53
+6,06M218,Middle,EMS,I.S. 218 Salome Urena,0.31,0.21
+6,06M223,Middle,EMS,The Mott Hall School,0.75,0.82
+6,06M278,K-8,EMS,Paula Hedbavny School,0.53,0.54
+6,06M293,High School,HS,City College Academy of the Arts,0.58,0.8
+6,06M293,Middle,EMS,City College Academy of the Arts,0.5,0.59
+6,06M311,K-8,EMS,Amistad Dual Language School,0.63,0.53
+6,06M314,Elementary,EMS,Muscota,0.71,0.84
+6,06M319,Middle,EMS,M.S. 319 - Maria Teresa,0.45,0.37
+6,06M322,Middle,EMS,Middle School 322,0.47,0.31
+6,06M324,Middle,EMS,M.S. 324 - Patria Mirabal,0.55,0.37
+6,06M328,Middle,EMS,Community Math  Science Prep,0.4,0.15
+6,06M346,High School,HS,Community Health Academy of the Heights,0.63,0.52
+6,06M346,Middle,EMS,Community Health Academy of the Heights,0.56,0.44
+6,06M348,High School,HS,Washington Heights Expeditionary Learning School,0.3,0.5
+6,06M348,K-8,EMS,Washington Heights Expeditionary Learning School,0.44,0.39
+6,06M349,Middle,EMS,Harbor Heights,0.55,0.31
+6,06M366,K-8,EMS,Washington Heights Academy,0.75,0.69
+6,06M368,Elementary,EMS,Hamilton Heights School,0.19,0.29
+6,06M423,High School Transfer,HST,High School for Excellence and Innovation,0.6,0.48
+6,06M457,YABC,YABC,George Washington Yabc,0.66,0.57
+6,06M462,High School,HS,The College Academy,0.59,0.32
+6,06M463,High School,HS,High School for Media and Communications,0.28,0.2
+6,06M467,High School,HS,High School for Law and Public Service,0.43,0.26
+6,06M468,High School,HS,High School for Health Careers and Sciences,0.47,0.32
+6,06M513,Elementary,EMS,Castle Bridge School,,
+6,06M528,Middle,EMS,I.S. 528 Bea Fuller Rodgers School,0.42,0.34
+6,06M540,High School,HS,A. Philip Randolph Campus High School,0.49,0.45
+6,06M552,High School,HS,Gregorio Luperon High School for Science and Mathe,0.53,0.52
+7,07X001,Elementary,EMS,P.S. 001 Courtlandt School,0.45,0.22
+7,07X005,K-8,EMS,P.S. 5 Port Morris,0.29,0.19
+7,07X018,Elementary,EMS,P.S. 018 John Peter Zenger,0.3,0.22
+7,07X025,Elementary,EMS,P.S. 025 Bilingual School,0.73,0.43
+7,07X029,K-8,EMS,P.S./M.S. 029 Melrose School,0.25,0.16
+7,07X030,Elementary,EMS,P.S. 030 Wilton,0.38,0.24
+7,07X031,K-8,EMS,P.S./M.S. 031 The William Lloyd Garrison,0.36,0.22
+7,07X043,Elementary,EMS,P.S. 043 Jonas Bronck,0.57,0.39
+7,07X049,Elementary,EMS,P.S. 049 Willis Avenue,0.72,0.48
+7,07X065,Elementary,EMS,P.S. 065 Mother Hale Academy,0.59,0.3
+7,07X151,Middle,EMS,J.H.S. 151 Lou Gehrig,0.25,0.12
+7,07X154,Elementary,EMS,P.S. 154 Jonathan D. Hyatt,0.52,0.37
+7,07X157,Elementary,EMS,P.S. 157 Grove Hill,0.43,0.29
+7,07X161,Elementary,EMS,P.S. 161 Juan Ponce De Leon School,0.53,0.29
+7,07X179,Elementary,EMS,P.S. 179,0.37,0.23
+7,07X221,High School,HS,South Bronx Preparatory: A College Board School,0.75,0.64
+7,07X221,Middle,EMS,South Bronx Preparatory: A College Board School,0.55,0.4
+7,07X223,High School,HS,The Laboratory School of Finance and Technology: X,0.56,0.64
+7,07X223,Middle,EMS,The Laboratory School of Finance and Technology: X,0.61,0.56
+7,07X224,Middle,EMS,P.S./I.S. 224,0.25,0.17
+7,07X259,High School,HS,"H.E.R.O. High (Health, Education, and Research Occ",0.43,0.34
+7,07X277,Elementary,EMS,P.S. 277,0.35,0.35
+7,07X296,Middle,EMS,South Bronx Academy for Applied Media,0.38,0.2
+7,07X298,Middle,EMS,Academy of Public Relations,0.25,0.19
+7,07X334,High School,HS,International Community High School,0.75,0.42
+7,07X343,Middle,EMS,Academy of Applied Mathematics and Technology,0.61,0.42
+7,07X359,Elementary,EMS,Concourse Village Elementary School,0.78,0.91
+7,07X369,Elementary,EMS,Young Leaders Elementary School,0.48,0.24
+7,07X379,High School Transfer,HST,Jill Chaifetz Transfer High School,0.31,0.25
+7,07X381,High School Transfer,HST,Bronx Haven High School,0.44,0.3
+7,07X427,High School,HS,Community School for Social Justice,0.58,0.3
+7,07X456,YABC,YABC,Alfred E. Smith Campus YABC,0.34,0.22
+7,07X473,High School,HS,Mott Haven Village Preparatory High School,0.3,0.14
+7,07X495,High School,HS,University Heights Secondary School,0.75,0.84
+7,07X500,High School,HS,Hostos-Lincoln Academy of Science,0.58,0.61
+7,07X500,Middle,EMS,Hostos-Lincoln Academy of Science,0.44,0.41
+7,07X522,High School,HS,Bronx Design and Construction Academy,0.29,0.19
+7,07X527,High School,HS,Bronx Leadership Academy II High School,0.55,0.36
+7,07X547,High School,HS,New Explorers High School,0.13,0.08
+7,07X548,High School,HS,Careers in Sports High School,0.3,0.25
+7,07X551,High School,HS,The Urban Assembly Bronx Academy of Letters,0.54,0.4
+7,07X551,Middle,EMS,The Urban Assembly Bronx Academy of Letters,0.4,0.24
+7,07X557,High School Transfer,HST,Mott Haven Community High School,0.66,0.49
+7,07X584,Middle,EMS,I.S. 584,,
+7,07X600,High School,HS,Alfred E. Smith Career and Technical Education Hig,0.48,0.35
+7,07X670,High School,HS,Health Opportunities High School,0.47,0.22
+8,08X014,Elementary,EMS,P.S. X014 Senator John Calandra,0.62,0.58
+8,08X036,Elementary,EMS,P.S. 036 Unionport,0.58,0.47
+8,08X048,Elementary,EMS,P.S. 048 Joseph R. Drake,0.4,0.2
+8,08X062,Elementary,EMS,P.S. 062 Inocensio Casanova,0.35,0.28
+8,08X069,Elementary,EMS,P.S. 069 Journey Prep School,0.82,0.67
+8,08X071,K-8,EMS,P.S. 071 Rose E. Scala,0.43,0.45
+8,08X072,Elementary,EMS,P.S. 072 Dr. William Dorney,0.5,0.33
+8,08X075,Elementary,EMS,P.S. 75 School of Research and Discovery,0.35,0.26
+8,08X093,Elementary,EMS,P.S. 093 Albert G. Oliver,0.27,0.24
+8,08X100,Elementary,EMS,P.S. 100 Isaac Clason,0.36,0.19
+8,08X101,Middle,EMS,M.S. X101 Edward R. Byrne,0.38,0.62
+8,08X107,Elementary,EMS,P.S. 107,0.58,0.33
+8,08X119,Elementary,EMS,The Dr. Emmett W. Bassett School,0.39,0.35
+8,08X123,Middle,EMS,J.H.S. 123 James M. Kieran,0.43,0.23
+8,08X125,Middle,EMS,J.H.S. 125 Henry Hudson,0.44,0.35
+8,08X130,Elementary,EMS,P.S. 130 Abram Stevens Hewitt,0.53,0.24
+8,08X131,Middle,EMS,J.H.S. 131 Albert Einstein,0.4,0.26
+8,08X138,Elementary,EMS,P.S. 138 Samuel Randall,0.35,0.31
+8,08X140,Elementary,EMS,P.S. X140 The Eagle School,0.32,0.22
+8,08X146,Elementary,EMS,P.S. 146 Edward Collins,0.49,0.32
+8,08X152,Elementary,EMS,P.S. 152 Evergreen,0.41,0.28
+8,08X182,Elementary,EMS,P.S. 182,0.44,0.4
+8,08X269,High School,HS,Bronx Studio School for Writers and Artists,0.48,0.38
+8,08X269,Middle,EMS,Bronx Studio School for Writers and Artists,0.35,0.24
+8,08X282,High School,HS,Womens Academy of Excellence,0.47,0.26
+8,08X293,High School,HS,Renaissance High School for Musical Theater  Tech,0.56,0.38
+8,08X301,Middle,EMS,M.S. 301 Paul L. Dunbar,0.39,0.15
+8,08X302,Middle,EMS,M.S. 302 Luisa Dessus Cruz,0.41,0.22
+8,08X304,Elementary,EMS,P.S. 304 Early Childhood School,0.42,0.62
+8,08X312,High School,HS,Millennium Art Academy,0.46,0.37
+8,08X320,High School,HS,Pelham Lab High School,0.38,0.28
+8,08X332,High School,HS,Holcombe L. Rucker School of Community Research,0.44,0.24
+8,08X333,Elementary,EMS,The Longwood Academy of Discovery,0.45,0.24
+8,08X337,Middle,EMS,The School for Inquiry and Social Justice,0.68,0.49
+8,08X348,High School,HS,Schuylerville Preparatory High School,0.42,0.34
+8,08X349,High School,HS,Bronx River High School,0.52,0.34
+8,08X367,High School,HS,"Archimedes Academy for Math, Science and Technolog",0.45,0.33
+8,08X367,Middle,EMS,"Archimedes Academy for Math, Science and Technolog",0.42,0.38
+8,08X371,Middle,EMS,Urban Institute of Mathematics,0.48,0.49
+8,08X375,Middle,EMS,The Bronx Mathematics Preparatory School,0.43,0.21
+8,08X376,High School,HS,Antonia Pantoja Preparatory Academy: A College Boa,0.49,0.24
+8,08X376,Middle,EMS,Antonia Pantoja Preparatory Academy: A College Boa,0.44,0.32
+8,08X377,High School Transfer,HST,Bronx Community High School,0.45,0.36
+8,08X405,High School,HS,Herbert H. Lehman High School,0.26,0.2
+8,08X408,YABC,YABC,Herbert H. Lehman Yabc,0.53,0.36
+8,08X424,Middle,EMS,The Hunts Point School,0.33,0.16
+8,08X432,High School,HS,Bronx Bridges High School,0.51,0.34
+8,08X448,Middle,EMS,Soundview Academy for Culture and Scholarship,0.45,0.36
+8,08X452,High School,HS,Gotham Collaborative High School,0.47,0.22
+8,08X467,Middle,EMS,Mott Hall Community School,0.37,0.3
+8,08X507,YABC,YABC,Stevenson Yabc,0.31,0.25
+8,08X519,High School,HS,Felisa Rincon de Gautier Institute for Law and Pub,0.27,0.06
+8,08X530,High School,HS,Longwood Preparatory Academy,0.58,0.19
+8,08X537,High School Transfer,HST,Bronx Arena High School,0.35,0.29
+8,08X558,High School,HS,Westchester Square Academy,0.38,0.35
+8,08X559,High School,HS,School for Tourism and Hospitality,0.22,0.1
+8,08X561,High School,HS,Bronx Compass High School,0.39,0.26
+8,08X562,Middle,EMS,Blueprint Middle School,0.44,0.38
+9,09X004,K-8,EMS,P.S./M.S. 004 Crotona Park West,0.42,0.28
+9,09X011,Elementary,EMS,P.S. 011 Highbridge,0.41,0.28
+9,09X022,Middle,EMS,J.H.S. 022 Jordan L. Mott,0.4,0.2
+9,09X028,Elementary,EMS,P.S. 028 Mount Hope,0.44,0.29
+9,09X035,Elementary,EMS,P.S. 035 Franz Siegel,0.3,0.24
+9,09X042,Elementary,EMS,P.S. 042 Claremont,0.57,0.32
+9,09X053,Elementary,EMS,P.S. 053 Basheer Quisim,0.5,0.38
+9,09X055,Elementary,EMS,P.S. 055 Benjamin Franklin,0.57,0.29
+9,09X058,Elementary,EMS,P.S. 058,0.51,0.24
+9,09X063,Elementary,EMS,P.S. 063 Authors Academy,0.43,0.36
+9,09X070,Elementary,EMS,P.S. 070 Max Schoenfeld,0.4,0.24
+9,09X073,Elementary,EMS,P.S. 073 Bronx,0.43,0.18
+9,09X109,Elementary,EMS,P.S. 109 Sedgwick,0.41,0.28
+9,09X110,Elementary,EMS,P.S. 110 Theodore Schoenfeld,0.41,0.32
+9,09X114,Elementary,EMS,P.S. X114 - Luis Llorens Torres Schools,0.47,0.23
+9,09X117,Middle,EMS,I.S. 117 Joseph H. Wade,0.34,0.18
+9,09X126,Elementary,EMS,P.S. 126 Dr Marjorie H Dunbar,0.75,0.39
+9,09X128,Middle,EMS,Mott Hall III,0.67,0.59
+9,09X132,Elementary,EMS,P.S. 132 Garret A. Morgan,0.53,0.24
+9,09X163,Elementary,EMS,P.S. 163 Arthur A. Schomburg,0.36,0.22
+9,09X199,Elementary,EMS,P.S. 199X - The Shakespeare School,0.54,0.28
+9,09X204,Elementary,EMS,P.S. 204 Morris Heights,0.55,0.52
+9,09X215,Middle,EMS,Kappa,0.57,0.42
+9,09X218,K-8,EMS,P.S./I.S. 218 Rafael Hernandez Dual Language Magne,0.44,0.39
+9,09X219,Middle,EMS,I.S. 219 New Venture School,0.56,0.21
+9,09X227,High School,HS,Bronx Collegiate Academy,0.48,0.31
+9,09X229,Middle,EMS,I.S. 229 Roland Patterson,0.36,0.2
+9,09X231,High School,HS,Eagle Academy for Young Men,0.52,0.39
+9,09X231,Middle,EMS,Eagle Academy for Young Men,0.28,0.29
+9,09X232,Middle,EMS,I.S. 232,0.48,0.28
+9,09X236,Elementary,EMS,P.S. 236 Langston Hughes,0.45,0.36
+9,09X241,High School,HS,Urban Assembly School for Applied Math and Science,0.49,0.49
+9,09X241,Middle,EMS,Urban Assembly School for Applied Math and Science,0.55,0.34
+9,09X250,High School,HS,Eximius College Preparatory Academy: A College Boa,0.69,0.51
+9,09X252,High School,HS,Mott Hall Bronx High School,0.63,0.46
+9,09X260,High School,HS,Bronx Center for Science and Mathematics,0.76,0.71
+9,09X263,High School,HS,Validus Preparatory Academy,0.43,0.26
+9,09X274,Elementary,EMS,The New American Academy at Roberto Clemente State,0.27,0.16
+9,09X294,Elementary,EMS,The Walton Avenue School,0.9,0.84
+9,09X297,High School,HS,Morris Academy for Collaborative Studies,0.62,0.34
+9,09X303,Middle,EMS,I.S. X303 Leadership  Community Service,0.66,0.44
+9,09X311,Elementary,EMS,Lucero Elementary School,0.57,0.33
+9,09X313,Middle,EMS,I.S. 313 School of Leadership Development,0.38,0.19
+9,09X323,Middle,EMS,Bronx Writing Academy,0.46,0.23
+9,09X324,High School,HS,Bronx Early College Academy for Teaching  Learnin,0.56,0.6
+9,09X324,Middle,EMS,Bronx Early College Academy for Teaching  Learnin,0.2,0.28
+9,09X325,Middle,EMS,Urban Science Academy,0.27,0.14
+9,09X327,High School,HS,Comprehensive Model School Project M.S. 327,0.43,0.53
+9,09X327,Middle,EMS,Comprehensive Model School Project M.S. 327,0.62,0.48
+9,09X328,Middle,EMS,New Millennium Business Academy Middle School,0.44,0.21
+9,09X329,High School,HS,DreamYard Preparatory School,0.44,0.23
+9,09X339,Middle,EMS,I.S. 339,0.45,0.22
+9,09X350,High School Transfer,HST,New Directions Secondary School,0.25,0.36
+9,09X350,Middle,EMS,New Directions Secondary School,0.23,0.07
+9,09X361,Middle,EMS,The Highbridge Green School,0.46,0.32
+9,09X365,High School,HS,Academy for Language and Technology,0.89,0.71
+9,09X403,High School,HS,Bronx International High School,0.7,0.43
+9,09X404,High School,HS,School for Excellence,0.52,0.19
+9,09X412,High School,HS,Bronx High School of Business,0.34,0.12
+9,09X413,High School,HS,Bronx High School for Medical Science,0.39,0.54
+9,09X413,Middle,EMS,Bronx High School for Medical Science,0.59,0.49
+9,09X443,Elementary,EMS,The Family School,0.67,0.36
+9,09X449,Elementary,EMS,Grant Avenue Elementary School,0.6,0.36
+9,09X454,Middle,EMS,Science and Technology Academy: A Mott Hall School,0.75,0.48
+9,09X457,Elementary,EMS,Sheridan Academy for Young Leaders,0.47,0.3
+9,09X505,High School,HS,"Bronx School for Law, Government and Justice",0.43,0.51
+9,09X505,Middle,EMS,"Bronx School for Law, Government and Justice",0.65,0.54
+9,09X517,High School,HS,Frederick Douglass Academy III Secondary School,0.49,0.2
+9,09X525,High School,HS,Bronx Leadership Academy High School,0.34,0.2
+9,09X543,High School,HS,High School for Violin and Dance,0.45,0.25
+9,09X555,Elementary,EMS,Mount Eden Childrens Academy,0.37,0.5
+9,09X564,High School,HS,Claremont International HS,0.58,0.34
+9,09X568,High School,HS,Young Womens Leadership School of the Bronx,0.59,0.61
+9,09X568,Middle,EMS,Young Womens Leadership School of the Bronx,0.41,0.57
+10,10X003,K-8,EMS,P.S. 3 Raul Julia Micro Society,0.54,0.43
+10,10X007,Elementary,EMS,Milton Fein School,0.33,0.46
+10,10X008,Elementary,EMS,P.S. 008 Isaac Varian,0.36,0.3
+10,10X009,Elementary,EMS,P.S. 9 Ryer Avenue Elementary School,0.31,0.24
+10,10X015,K-8,EMS,P.S. X015 Institute for Environmental Learning,0.47,0.48
+10,10X020,K-8,EMS,"P.S./M.S. 20 P.O.George J. Werdann, III",0.42,0.31
+10,10X023,Elementary,EMS,P.S. 023 The New Childrens School,0.26,0.19
+10,10X024,Elementary,EMS,P.S. 024 Spuyten Duyvil,0.53,0.78
+10,10X032,Elementary,EMS,P.S. 032 Belmont,0.25,0.22
+10,10X033,Elementary,EMS,P.S. 033 Timothy Dwight,0.55,0.35
+10,10X037,K-8,EMS,P.S. X037 - Multiple Intelligence School,0.4,0.3
+10,10X045,Middle,EMS,Thomas C. Giordano Middle School 45,0.33,0.3
+10,10X046,Elementary,EMS,P.S. 046 Edgar Allan Poe,0.3,0.22
+10,10X051,Elementary,EMS,P.S. 051 Bronx New School,0.14,0.33
+10,10X054,Elementary,EMS,P.S./I.S. 54,0.29,0.19
+10,10X056,Elementary,EMS,P.S. 056 Norwood Heights,0.52,0.45
+10,10X059,Elementary,EMS,P.S. 059 The Community School of Technology,0.43,0.22
+10,10X080,Middle,EMS,J.H.S. 080 The Mosholu Parkway,0.6,0.33
+10,10X081,Elementary,EMS,P.S. 081 Robert J. Christen,0.23,0.75
+10,10X085,Elementary,EMS,P.S. 085 Great Expectations,0.27,0.15
+10,10X086,Elementary,EMS,P.S. 086 Kingsbridge Heights,0.56,0.42
+10,10X091,Elementary,EMS,P.S. 091 Bronx,0.35,0.29
+10,10X094,Elementary,EMS,P.S. 094 Kings College School,0.32,0.18
+10,10X095,K-8,EMS,P.S. 095 Sheila Mencher,0.46,0.37
+10,10X118,Middle,EMS,J.H.S. 118 William W. Niles,0.36,0.45
+10,10X141,High School,HS,Riverdale / Kingsbridge Academy (Middle School / H,0.55,0.63
+10,10X141,Middle,EMS,Riverdale / Kingsbridge Academy (Middle School / H,0.26,0.54
+10,10X159,Elementary,EMS,P.S. 159 Luis Munoz Marin Biling,0.5,0.47
+10,10X205,Elementary,EMS,P.S. 205 Fiorello LaGuardia,0.35,0.3
+10,10X206,Middle,EMS,I.S. 206 Ann Mersereau,0.32,0.15
+10,10X213,High School,HS,Bronx Engineering and Technology Academy,0.37,0.29
+10,10X225,High School,HS,Theatre Arts Production Company School,0.35,0.37
+10,10X225,Middle,EMS,Theatre Arts Production Company School,0.3,0.34
+10,10X226,Elementary,EMS,P.S. 226,0.32,0.24
+10,10X228,Middle,EMS,Jonas Bronck Academy,0.48,0.6
+10,10X237,High School,HS,"The Marie Curie School for Medicine, Nursing, and",0.43,0.31
+10,10X243,High School,HS,West Bronx Academy for the Future,0.52,0.46
+10,10X243,Middle,EMS,West Bronx Academy for the Future,0.28,0.38
+10,10X244,Middle,EMS,The New School for Leadership and Journalism,0.51,0.39
+10,10X246,Elementary,EMS,P.S. 246 Poe Center,0.29,0.2
+10,10X254,Middle,EMS,I.S. 254,0.54,0.26
+10,10X264,High School,HS,Bronx Academy for Software Engineering (BASE),0.43,0.4
+10,10X268,High School,HS,Kingsbridge International High School,0.11,0.12
+10,10X279,K-8,EMS,"P.S. 279 Captain Manuel Rivera, Jr.",0.45,0.32
+10,10X280,K-8,EMS,P.S./M.S. 280 Mosholu Parkway,0.46,0.39
+10,10X284,High School,HS,Bronx School of Law and Finance,0.49,0.28
+10,10X291,Elementary,EMS,P.S. 291,0.49,0.38
+10,10X306,Elementary,EMS,P.S. 306,0.32,0.21
+10,10X307,Elementary,EMS,Luisa Pineiro Fuentes School of Science and Discov,0.4,0.3
+10,10X308,Middle,EMS,Bronx Dance Academy School,0.46,0.4
+10,10X310,Elementary,EMS,P.S. 310 Marble Hill,0.32,0.33
+10,10X315,K-8,EMS,P.S. 315 Lab School,0.33,0.36
+10,10X319,High School Transfer,HST,Providing Urban Learners Success In Education High,0.37,0.25
+10,10X331,Middle,EMS,The Bronx School of Young Leaders,0.49,0.31
+10,10X340,Elementary,EMS,P.S. 340,0.53,0.29
+10,10X342,High School,HS,International School for Liberal Arts,0.42,0.44
+10,10X342,Middle,EMS,International School for Liberal Arts,0.48,0.27
+10,10X344,Elementary,EMS,Ampark Neighborhood,0.14,0.51
+10,10X351,High School,HS,Bronx Collaborative High School,0.42,0.35
+10,10X353,High School,HS,World View High School,0.77,0.54
+10,10X360,Elementary,EMS,P.S. 360,0.48,0.31
+10,10X363,Middle,EMS,Academy For Personal Leadership And Excellence,0.37,0.27
+10,10X368,High School,HS,In-Tech Academy (M.S. / High School 368),0.47,0.47
+10,10X368,Middle,EMS,In-Tech Academy (M.S. / High School 368),0.22,0.38
+10,10X374,High School,HS,Knowledge and Power Preparatory Academy Internatio,0.79,0.56
+10,10X382,Elementary,EMS,"Elementary School for Math, Science, and Technolog",0.2,0.24
+10,10X386,Elementary,EMS,School for Environmental Citizenship,0.25,0.19
+10,10X390,Middle,EMS,M.S. 390,0.5,0.33
+10,10X391,Middle,EMS,The Angelo Patri Middle School,0.3,0.17
+10,10X396,Elementary,EMS,P.S. 396,0.31,0.18
+10,10X397,High School Transfer,HST,English Language Learners and International Suppor,0.61,0.5
+10,10X433,High School,HS,High School for Teaching and the Professions,0.46,0.31
+10,10X434,High School,HS,Belmont Preparatory High School,0.71,0.56
+10,10X437,High School,HS,Fordham High School for the Arts,0.74,0.69
+10,10X438,High School,HS,Fordham Leadership Academy,0.57,0.34
+10,10X439,High School,HS,Bronx High School for Law and Community Service,0.73,0.49
+10,10X440,High School,HS,DeWitt Clinton High School,0.32,0.28
+10,10X442,High School,HS,"Celia Cruz Bronx High School of Music, The",0.64,0.62
+10,10X445,High School,HS,The Bronx High School of Science,0.57,0.92
+10,10X447,Middle,EMS,Creston Academy,0.6,0.39
+10,10X459,Middle,EMS,East Fordham Academy for the Arts,0.37,0.18
+10,10X477,High School,HS,Marble Hill High School for International Studies,0.85,0.72
+10,10X503,YABC,YABC,Walton Yabc,0.45,0.31
+10,10X504,YABC,YABC,Kennedy Yabc,0.4,0.22
+10,10X524,High School,HS,Crotona International High School,0.36,0.22
+10,10X546,High School,HS,Bronx Theatre High School,0.48,0.33
+10,10X549,High School,HS,Discovery High School,0.8,0.5
+10,10X565,High School,HS,High School for Energy and Technology,0.58,0.4
+10,10X668,YABC,YABC,Dewitt Clinton Campus YABC,0.59,0.43
+10,10X696,High School,HS,High School of American Studies at Lehman College,0.62,0.93
+11,11X016,Elementary,EMS,P.S. 016 Wakefield,0.59,0.31
+11,11X019,K-8,EMS,P.S. 019 Judith K. Weiss,0.45,0.55
+11,11X021,Elementary,EMS,P.S. 021 Philip H. Sheridan,0.38,0.27
+11,11X041,Elementary,EMS,P.S. 041 Gun Hill Road,0.42,0.35
+11,11X068,Elementary,EMS,P.S. 068 Bronx,0.48,0.44
+11,11X076,Elementary,EMS,P.S. 076 The Bennington School,0.14,0.23
+11,11X078,Elementary,EMS,P.S. 078 Anne Hutchinson,0.18,0.27
+11,11X083,K-8,EMS,P.S. 083 Donald Hertz,0.39,0.4
+11,11X087,Elementary,EMS,P.S. 087 Bronx,0.39,0.36
+11,11X089,K-8,EMS,P.S. 089 Bronx,0.37,0.35
+11,11X096,Elementary,EMS,P.S. 096 Richard Rodgers,0.33,0.32
+11,11X097,Elementary,EMS,P.S. 097 Bronx,0.34,0.39
+11,11X103,Elementary,EMS,P.S. 103 Hector Fontanez,0.2,0.22
+11,11X105,Elementary,EMS,P.S. 105 Sen Abraham Bernstein,0.28,0.36
+11,11X106,Elementary,EMS,P.S. 106 Parkchester,0.35,0.42
+11,11X108,Elementary,EMS,P.S. 108 Philip J. Abinanti,0.4,0.6
+11,11X111,Elementary,EMS,P.S. 111 Seton Falls,0.53,0.3
+11,11X112,Elementary,EMS,P.S. 112 Bronxwood,0.19,0.18
+11,11X121,Elementary,EMS,P.S. 121 Throop,0.19,0.32
+11,11X127,Middle,EMS,J.H.S. 127 The Castle Hill,0.38,0.41
+11,11X144,Middle,EMS,J.H.S. 144 Michelangelo,0.53,0.31
+11,11X153,Elementary,EMS,P.S. 153 Helen Keller,0.3,0.59
+11,11X160,Elementary,EMS,P.S. 160 Walt Disney,0.43,0.37
+11,11X169,Elementary,EMS,Baychester Academy,0.43,0.62
+11,11X175,K-8,EMS,P.S. 175 City Island,0.39,0.51
+11,11X178,Elementary,EMS,P.S. 178 - Dr. Selman Waksman,0.22,0.3
+11,11X180,Middle,EMS,M.S. 180 Dr. Daniel Hale Williams,0.4,0.54
+11,11X181,Middle,EMS,I.S. 181 Pablo Casals,0.51,0.49
+11,11X189,Elementary,EMS,Cornerstone Academy for Social Action,0.34,0.34
+11,11X194,K-8,EMS,P.S./M.S. 194,0.32,0.38
+11,11X249,High School,HS,Bronx Health Sciences High School,0.77,0.61
+11,11X253,High School,HS,Bronx High School for Writing and Communication Ar,0.47,0.29
+11,11X265,High School,HS,Bronx Lab School,0.51,0.33
+11,11X270,High School,HS,Academy for Scholarship and Entrepreneurship: A Co,0.5,0.29
+11,11X275,High School,HS,High School of Computers and Technology,0.59,0.42
+11,11X287,Middle,EMS,North Bronx School of Empowerment,0.25,0.16
+11,11X288,High School,HS,Collegiate Institute for Math and Science,0.52,0.61
+11,11X290,High School,HS,Bronx Academy of Health Careers,0.61,0.35
+11,11X299,High School,HS,Astor Collegiate Academy,0.46,0.38
+11,11X326,Middle,EMS,Bronx Green Middle School,0.38,0.35
+11,11X355,Middle,EMS,Bronx Alliance Middle School,0.33,0.26
+11,11X357,Elementary,EMS,Young Voices Academy of the Bronx,,
+11,11X370,Middle,EMS,Leaders of Tomorrow,0.41,0.21
+11,11X417,YABC,YABC,C Columbus Hs Yabc,0.61,0.45
+11,11X418,High School,HS,Bronx High School for the Visual Arts,0.52,0.34
+11,11X455,High School,HS,Harry S Truman High School,0.6,0.36
+11,11X462,Middle,EMS,Cornerstone Academy for Social Action Middle Schoo,0.25,0.31
+11,11X468,Middle,EMS,Pelham Academy of Academics and Community Engageme,0.47,0.42
+11,11X498,K-8,EMS,P.S./M.S. 11X498 - VAN NEST ACADEMY,0.51,0.47
+11,11X508,High School,HS,Bronxdale High School,0.46,0.43
+11,11X509,High School,HS,High School of Language and Innovation,0.54,0.44
+11,11X513,High School,HS,New World High School,0.77,0.53
+11,11X514,High School,HS,The Bronxwood Preparatory Academy,0.51,0.26
+11,11X529,Middle,EMS,One World Middle School at Edenwald,0.52,0.38
+11,11X532,Middle,EMS,Baychester Middle School,0.36,0.25
+11,11X542,High School,HS,Pelham Preparatory Academy,0.61,0.57
+11,11X544,High School,HS,High School for Contemporary Arts,0.6,0.34
+11,11X545,High School,HS,Bronx Aerospace High School,0.52,0.25
+11,11X556,Middle,EMS,Bronx Park Middle School,0.39,0.34
+11,11X566,Middle,EMS,Pelham Gardens Middle School,0.43,0.32
+11,11X567,Elementary,EMS,Linden Tree Elementary School,0.35,0.26
+12,12X006,Elementary,EMS,P.S. 006 West Farms,0.17,0.18
+12,12X044,Elementary,EMS,P.S. 044 David C. Farragut,0.48,0.34
+12,12X047,Elementary,EMS,P.S. 047 John Randolph,0.33,0.25
+12,12X057,Elementary,EMS,P.S. 057 Crescent,0.4,0.23
+12,12X061,Elementary,EMS,P.S. 061 Francisco Oller,0.39,0.26
+12,12X066,Elementary,EMS,P.S. 066 School of Higher Expectations,0.27,0.21
+12,12X067,Elementary,EMS,P.S. 067 Mohegan School,0.54,0.38
+12,12X092,Elementary,EMS,P.S. 092 Bronx,0.31,0.15
+12,12X098,Middle,EMS,J.H.S. 098 Herman Ridder,0.43,0.2
+12,12X129,Middle,EMS,M.S. 129 Academy for Independent Learning and Lead,0.65,0.29
+12,12X134,Elementary,EMS,P.S. 134 George F. Bristow,0.29,0.18
+12,12X150,Elementary,EMS,P.S. 150 Charles James Fox,0.44,0.26
+12,12X190,Middle,EMS,E.S.M.T- I.S. 190,0.54,0.36
+12,12X195,Elementary,EMS,P.S. 195,0.4,0.15
+12,12X196,Elementary,EMS,P.S. 196,0.46,0.25
+12,12X211,K-8,EMS,P.S. 211,0.47,0.26
+12,12X212,K-8,EMS,P.S. 212,0.14,0.19
+12,12X214,K-8,EMS,P.S. 214,0.27,0.26
+12,12X217,Middle,EMS,School of Performing Arts,0.37,0.18
+12,12X242,High School,HS,Mott Hall V,0.68,0.56
+12,12X242,Middle,EMS,Mott Hall V,0.52,0.33
+12,12X248,High School,HS,"Metropolitan High School, The",0.4,0.17
+12,12X251,High School,HS,Explorations Academy H.S.,0.59,0.31
+12,12X267,High School,HS,Bronx Latin,0.68,0.61
+12,12X267,Middle,EMS,Bronx Latin,0.43,0.32
+12,12X271,High School,HS,East Bronx Academy for the Future,0.71,0.44
+12,12X271,Middle,EMS,East Bronx Academy for the Future,0.43,0.3
+12,12X273,Middle,EMS,Frederick Douglass Academy V. Middle School,0.28,0.22
+12,12X286,Middle,EMS,Fannie Lou Hamer Middle School,0.32,0.2
+12,12X300,Elementary,EMS,The School of Science and Applied Learning,0.32,0.22
+12,12X314,Elementary,EMS,Fairmont Neighborhood School,0.33,0.13
+12,12X316,Middle,EMS,Kappa III,0.37,0.35
+12,12X318,Middle,EMS,"I.S. X318 Math, Science  Technology Through Arts",0.22,0.2
+12,12X321,High School Transfer,HST,Crotona Academy High School,0.53,0.43
+12,12X341,Middle,EMS,Accion Academy,0.37,0.22
+12,12X372,High School,HS,Urban Assembly School for Wildlife Conservation,0.26,0.28
+12,12X372,Middle,EMS,Urban Assembly School for Wildlife Conservation,0.32,0.16
+12,12X383,Middle,EMS,Emolior Academy,0.44,0.24
+12,12X384,Middle,EMS,Entrada Academy,0.48,0.21
+12,12X388,High School,HS,Pan American International High School at Monroe,0.85,0.54
+12,12X428,YABC,YABC,Learning To Work Yabc At Monroe Academy,0.34,0.17
+12,12X446,High School Transfer,HST,Arturo A. Schomburg Satellite Academy Bronx,0.46,0.33
+12,12X463,Elementary,EMS,Urban Scholars Community School,0.49,0.31
+12,12X478,High School,HS,The Cinema School,0.63,0.68
+12,12X479,High School,HS,Bronx Career and College Preparatory High School,0.24,0.1
+12,12X480,High School Transfer,HST,Bronx Regional High School,0.25,0.24
+12,12X511,High School,HS,Bronx Envision Academy,0.43,0.3
+12,12X521,High School,HS,The Metropolitan Soundview High School,0.65,0.37
+12,12X531,Elementary,EMS,Archer Elementary School,0.59,0.28
+12,12X536,Elementary,EMS,P.S. 536,0.3,0.25
+12,12X550,High School,HS,High School of World Cultures,0.36,0.28
+12,12X682,High School,HS,Fannie Lou Hamer Freedom High School,0.62,0.32
+12,12X684,High School,HS,Wings Academy,0.26,0.14
+12,12X691,Elementary,EMS,Bronx Little School,0.39,0.29
+13,13K003,Elementary,EMS,P.S. 003 The Bedford Village,0.26,0.28
+13,13K008,K-8,EMS,P.S. 008 Robert Fulton,0.31,0.72
+13,13K009,Elementary,EMS,P.S. 009 Teunis G. Bergen,0.29,0.6
+13,13K011,Elementary,EMS,P.S. 011 Purvis J. Behan,0.36,0.8
+13,13K020,Elementary,EMS,P.S. 020 Clinton Hill,0.67,0.62
+13,13K044,Elementary,EMS,P.S. 044 Marcus Garvey,0.25,0.27
+13,13K046,Elementary,EMS,P.S. 046 Edward C. Blum,0.36,0.29
+13,13K054,Elementary,EMS,P.S. 054 Samuel C. Barnes,0.45,0.23
+13,13K056,Elementary,EMS,P.S. 056 Lewis H. Latimer,0.11,0.25
+13,13K067,Elementary,EMS,P.S. 067 Charles A. Dorsey,0.55,0.27
+13,13K093,Elementary,EMS,P.S. 093 William H. Prescott,0.47,0.25
+13,13K113,Middle,EMS,M.S. 113 Ronald Edmonds Learning Center,0.29,0.23
+13,13K133,Elementary,EMS,P.S. 133 William A. Butler,0.29,0.55
+13,13K256,Elementary,EMS,P.S. 256 Benjamin Banneker,0.64,0.45
+13,13K265,High School,HS,Dr. Susan S. McKinney Secondary School of the Arts,0.25,0.33
+13,13K265,Middle,EMS,Dr. Susan S. McKinney Secondary School of the Arts,0.41,0.21
+13,13K266,Middle,EMS,M.S. K266 - Park Place Community Middle School,0.43,0.29
+13,13K270,Elementary,EMS,P.S. 270 Johann DeKalb,0.32,0.24
+13,13K282,K-8,EMS,P.S. 282 Park Slope,0.49,0.42
+13,13K287,Elementary,EMS,P.S. 287 Bailey K. Ashford,0.25,0.17
+13,13K301,Middle,EMS,Satellite East Middle School,0.43,0.2
+13,13K305,Elementary,EMS,P.S. 305 Dr. Peter Ray,0.47,0.31
+13,13K307,Elementary,EMS,P.S. 307 Daniel Hale Williams,0.45,0.25
+13,13K313,Middle,EMS,Dock Street School for STEAM Studies,0.4,0.47
+13,13K350,High School,HS,Urban Assembly School for Music and Art,0.47,0.38
+13,13K351,Middle,EMS,The Urban Assembly Unison School,0.38,0.22
+13,13K412,High School,HS,Brooklyn Community Arts  Media High School (BCAM),0.49,0.32
+13,13K419,High School,HS,"Science Skills Center High School for Science, Tec",0.58,0.61
+13,13K430,High School,HS,Brooklyn Technical High School,0.52,0.9
+13,13K439,High School,HS,Brooklyn International High School,0.8,0.61
+13,13K483,High School,HS,The Urban Assembly School for Law and Justice,0.64,0.66
+13,13K492,K-8,EMS,Academy of Arts and Letters,0.32,0.64
+13,13K499,High School,HS,ACORN Community High School,0.51,0.28
+13,13K527,High School,HS,Urban Assembly Institute of Math and Science for Y,0.56,0.55
+13,13K527,Middle,EMS,Urban Assembly Institute of Math and Science for Y,0.42,0.41
+13,13K553,High School Transfer,HST,Brooklyn Academy High School,0.49,0.35
+13,13K575,High School Transfer,HST,Bedford Stuyvesant Preparatory High School,0.43,0.32
+13,13K595,High School,HS,Bedford Academy High School,0.65,0.76
+13,13K605,High School,HS,George Westinghouse Career and Technical Education,0.34,0.38
+13,13K616,High School Transfer,HST,Brooklyn High School for Leadership and Community,0.3,0.26
+13,13K657,YABC,YABC,Downtown Brooklyn Yabc,0.42,0.44
+13,13K670,High School,HS,Benjamin Banneker Academy,0.4,0.64
+13,13K674,High School,HS,"City Polytechnic High School of Engineering, Archi",0.34,0.5
+13,13K691,Middle,EMS,Fort Greene Preparatory Academy,0.4,0.27
+14,14K016,Elementary,EMS,P.S. 016 Leonard Dunkly,0.51,0.27
+14,14K017,Elementary,EMS,P.S. 017 Henry D. Woodworth,0.47,0.44
+14,14K018,Elementary,EMS,P.S. 018 Edward Bush,0.61,0.29
+14,14K023,Elementary,EMS,P.S. 023 Carter G. Woodson,0.6,0.29
+14,14K031,Elementary,EMS,P.S. 031 Samuel F. Dupont,0.58,0.72
+14,14K034,Elementary,EMS,P.S. 034 Oliver H. Perry,0.39,0.65
+14,14K050,Middle,EMS,J.H.S. 050 John D. Wells,0.58,0.3
+14,14K059,Elementary,EMS,P.S. 059 William Floyd,0.32,0.27
+14,14K071,High School,HS,Juan Morel Campos Secondary School,0.31,0.2
+14,14K071,Middle,EMS,Juan Morel Campos Secondary School,0.51,0.24
+14,14K084,K-8,EMS,P.S. 084 Jose De Diego,0.29,0.37
+14,14K110,Elementary,EMS,P.S. 110 The Monitor,0.15,0.57
+14,14K120,Elementary,EMS,P.S. 120 Carlos Tapia,0.41,0.35
+14,14K126,Middle,EMS,John Ericsson Middle School 126,0.22,0.32
+14,14K132,Elementary,EMS,P.S. 132 The Conselyea School,0.69,0.7
+14,14K147,Elementary,EMS,P.S. 147 Isaac Remsen,0.46,0.47
+14,14K157,K-8,EMS,P.S./I.S. 157 The Benjamin Franklin Health  Scien,0.38,0.23
+14,14K196,Elementary,EMS,P.S. 196 Ten Eyck,0.39,0.34
+14,14K250,Elementary,EMS,P.S. 250 George H. Lindsay,0.13,0.29
+14,14K257,Elementary,EMS,P.S. 257 John F. Hylan,0.81,0.49
+14,14K297,Elementary,EMS,P.S. 297 Abraham Stockton,0.42,0.31
+14,14K318,Middle,EMS,I.S. 318 Eugenio Maria De Hostos,0.19,0.46
+14,14K380,Elementary,EMS,P.S. 380 John Wayne Elementary,0.6,0.47
+14,14K414,Elementary,EMS,Brooklyn Arbor Elementary School,0.48,0.5
+14,14K449,High School,HS,"Brooklyn Latin School, The",0.55,0.89
+14,14K454,High School,HS,The Williamsburg High School of Art and Technology,0.53,0.38
+14,14K474,High School,HS,PROGRESS High School for Professional Careers,0.53,0.31
+14,14K477,High School,HS,East Williamsburg Scholars Academy,0.38,0.24
+14,14K478,High School,HS,"The High School for Enterprise, Business and Techn",0.51,0.44
+14,14K488,High School,HS,Brooklyn Preparatory High School,0.56,0.59
+14,14K558,High School,HS,Williamsburg High School for Architecture and Desi,0.77,0.71
+14,14K561,High School,HS,Williamsburg Preparatory School,0.68,0.66
+14,14K577,Middle,EMS,Conselyea Preparatory School,0.26,0.59
+14,14K582,Middle,EMS,M.S. 582,0.59,0.37
+14,14K586,High School,HS,Lyons Community School,0.43,0.35
+14,14K586,Middle,EMS,Lyons Community School,0.13,0.16
+14,14K610,High School,HS,Automotive High School,0.51,0.27
+14,14K614,High School,HS,Young Womens Leadership School of Brooklyn,0.59,0.64
+14,14K614,Middle,EMS,Young Womens Leadership School of Brooklyn,0.27,0.35
+14,14K685,High School,HS,El Puente Academy for Peace and Justice,0.63,0.5
+14,14K923,YABC,YABC,Automotive High School Yabc,0.28,0.17
+15,15K001,Elementary,EMS,P.S. 001 The Bergen,0.31,0.33
+15,15K010,Elementary,EMS,"Magnet School of Math, Science and Design Technolo",0.44,0.76
+15,15K015,Elementary,EMS,P.S. 015 Patrick F. Daly,0.15,0.34
+15,15K024,Elementary,EMS,P.S. 024,0.24,0.26
+15,15K029,Elementary,EMS,P.S. 029 John M. Harrigan,0.21,0.83
+15,15K032,Elementary,EMS,P.S. 032 Samuel Mills Sprole,0.34,0.67
+15,15K038,Elementary,EMS,P.S. 038 The Pacific,0.45,0.58
+15,15K039,Elementary,EMS,P.S. 039 Henry Bristow,0.64,0.94
+15,15K051,Middle,EMS,M.S. 51 William Alexander,0.45,0.92
+15,15K058,Elementary,EMS,P.S. 058 The Carroll,0.33,0.86
+15,15K088,Middle,EMS,J.H.S. 088 Peter Rouget,0.37,0.48
+15,15K094,Elementary,EMS,P.S. 094 The Henry Longfellow,0.36,0.49
+15,15K107,Elementary,EMS,P.S. 107 John W. Kimball,0.43,0.95
+15,15K118,Elementary,EMS,The Maurice Sendak Community School,,
+15,15K124,Elementary,EMS,P.S. 124 Silas B. Dutcher,0.35,0.49
+15,15K130,Elementary,EMS,P.S. 130 The Parkside,0.54,0.6
+15,15K131,Elementary,EMS,P.S. 131 Brooklyn,0.68,0.58
+15,15K136,Middle,EMS,I.S. 136 Charles O. Dewey,0.33,0.23
+15,15K146,Elementary,EMS,"The Brooklyn New School, P.S. 146",0.62,0.71
+15,15K154,Elementary,EMS,The Windsor Terrace School,0.26,0.86
+15,15K169,Elementary,EMS,P.S. 169 Sunset Park,0.53,0.43
+15,15K172,Elementary,EMS,P.S. 172 Beacon School of Excellence,0.92,0.96
+15,15K230,Elementary,EMS,P.S. 230 Doris L. Cohen,0.4,0.5
+15,15K261,Elementary,EMS,P.S. 261 Philip Livingston,0.06,0.58
+15,15K295,Elementary,EMS,P.S. 295,0.59,0.64
+15,15K321,Elementary,EMS,P.S. 321 William Penn,0.44,0.94
+15,15K418,Elementary,EMS,The Childrens School,0.04,0.68
+15,15K423,High School Transfer,HST,Brooklyn Frontiers High School,0.52,0.36
+15,15K429,High School,HS,Digital Arts and Cinema Technology High School,0.66,0.58
+15,15K442,Middle,EMS,M.S. 442 Carroll Gardens School for Innovation,0.41,0.51
+15,15K443,Middle,EMS,New Voices School of Academic  Creative Arts,0.68,0.83
+15,15K447,Middle,EMS,The Math  Science Exploratory School,0.56,0.95
+15,15K448,High School,HS,Brooklyn Secondary School for Collaborative Studie,0.56,0.54
+15,15K448,Middle,EMS,Brooklyn Secondary School for Collaborative Studie,0.51,0.49
+15,15K462,High School,HS,John Jay School for Law,0.39,0.43
+15,15K463,High School,HS,Secondary School for Journalism,0.29,0.25
+15,15K464,High School,HS,Park Slope Collegiate,0.47,0.49
+15,15K464,Middle,EMS,Park Slope Collegiate,0.3,0.48
+15,15K497,High School,HS,The Boerum Hill School for International Studies,0.17,0.32
+15,15K497,Middle,EMS,The Boerum Hill School for International Studies,0.3,0.54
+15,15K516,Elementary,EMS,Sunset Park Avenues Elementary School,,
+15,15K519,High School,HS,Cobble Hill School of American Studies,0.57,0.43
+15,15K529,High School Transfer,HST,West Brooklyn Community High School,0.56,0.39
+15,15K592,High School,HS,Khalil Gibran International Academy,0.39,0.28
+15,15K656,High School,HS,Brooklyn High School of the Arts,0.37,0.57
+15,15K667,High School,HS,Sunset Park High School,0.54,0.45
+15,15K676,Elementary,EMS,Red Hook Neighborhood School,0.2,0.09
+15,15K684,High School,HS,Millennium Brooklyn HS,0.68,0.9
+15,15K698,High School Transfer,HST,South Brooklyn Community High School,0.38,0.31
+15,15K821,Middle,EMS,Sunset Park Prep,0.54,0.5
+15,15K839,Middle,EMS,M.S. 839,0.3,0.61
+16,16K005,Elementary,EMS,P.S. 005 Dr. Ronald Mcnair,0.58,0.44
+16,16K021,Elementary,EMS,P.S. 021 Crispus Attucks,0.75,0.59
+16,16K025,Elementary,EMS,P.S. 025 Eubie Blake School,0.77,0.6
+16,16K026,Elementary,EMS,P.S. 026 Jesse Owens,0.62,0.54
+16,16K028,Elementary,EMS,P.S. 028 The Warren Prep Academy,0.66,0.35
+16,16K035,Middle,EMS,M.S. 035 Stephen Decatur,0.35,0.24
+16,16K040,Elementary,EMS,P.S. 040 George W. Carver,0.96,0.6
+16,16K057,Middle,EMS,J.H.S. 057 Whitelaw Reid,0.41,0.27
+16,16K081,Elementary,EMS,P.S. 081 Thaddeus Stevens,0.45,0.28
+16,16K243,Elementary,EMS,P.S. 243K- The Weeksville School,0.57,0.32
+16,16K262,Elementary,EMS,P.S. 262 El Hajj Malik El Shabazz Elementary Schoo,0.78,0.56
+16,16K267,Middle,EMS,"M.S. 267 Math, Science  Technology",0.42,0.28
+16,16K308,K-8,EMS,P.S. 308 Clara Cardwell,0.29,0.14
+16,16K309,Elementary,EMS,P.S. 309 The George E. Wibecan Preparatory Academy,0.18,0.19
+16,16K335,Elementary,EMS,P.S. 335 Granville T. Woods,0.17,0.26
+16,16K455,High School,HS,Boys and Girls High School,0.55,0.26
+16,16K498,High School,HS,Brooklyn High School for Law and Technology,0.41,0.4
+16,16K594,High School,HS,Gotham Professional Arts Academy,0.49,0.39
+16,16K627,Elementary,EMS,Brighter Choice Community School,0.44,0.48
+16,16K628,Elementary,EMS,Brooklyn Brownstone School,0.28,0.5
+16,16K669,High School Transfer,HST,Research and Service High School,0.54,0.41
+16,16K681,Middle,EMS,Madiba Prep Middle School,0.16,0.23
+16,16K688,High School,HS,The Brooklyn Academy of Global Finance,0.6,0.33
+16,16K765,High School,HS,Nelson Mandela High School,0.52,0.26
+16,16K959,YABC,YABC,BOYS AND GIRLS YABC,0.63,0.5
+17,17K002,Middle,EMS,Parkside Preparatory Academy,0.51,0.38
+17,17K006,Elementary,EMS,Norma Adams Clemons Academy,0.24,0.2
+17,17K012,Elementary,EMS,Dr. Jacqueline Peek-Davis School,0.52,0.36
+17,17K061,Middle,EMS,M.S. 061 Dr. Gladstone H. Atwell,0.25,0.33
+17,17K091,Elementary,EMS,P.S. 091 The Albany Avenue School,0.65,0.42
+17,17K092,Elementary,EMS,P.S. 092 Adrian Hegeman,0.33,0.25
+17,17K122,High School,HS,Pathways in Technology Early College High School (,0.46,0.5
+17,17K138,K-8,EMS,P.S. 138 Brooklyn,0.57,0.52
+17,17K161,Elementary,EMS,P.S. 161 The Crown,0.19,0.27
+17,17K181,K-8,EMS,P.S. 181 Brooklyn,0.44,0.32
+17,17K189,K-8,EMS,P.S. 189 The Bilingual Center,0.64,0.6
+17,17K191,Elementary,EMS,P.S. 191 Paul Robeson,0.79,0.68
+17,17K221,Elementary,EMS,P.S. 221 Toussaint LOuverture,0.31,0.36
+17,17K241,Elementary,EMS,P.S. 241 Emma L. Johnston,0.35,0.51
+17,17K246,Middle,EMS,M.S. 246 Walt Whitman,0.61,0.3
+17,17K249,Elementary,EMS,P.S. 249 The Caton,0.69,0.73
+17,17K289,Elementary,EMS,P.S. 289 George V. Brower,0.67,0.48
+17,17K316,Elementary,EMS,P.S. 316 Elijah Stroud,0.33,0.61
+17,17K340,Middle,EMS,I.S. 340,0.39,0.5
+17,17K352,Middle,EMS,Ebbets Field Middle School,0.5,0.24
+17,17K353,Middle,EMS,Elijah Stroud Middle School,0.34,0.25
+17,17K354,Middle,EMS,The School of Integrated Learning,0.81,0.49
+17,17K375,Elementary,EMS,P.S. 375 Jackie Robinson School,0.43,0.32
+17,17K382,High School,HS,Academy for College Preparation and Career Explora,0.52,0.29
+17,17K382,Middle,EMS,Academy for College Preparation and Career Explora,0.13,0.24
+17,17K394,K-8,EMS,M.S. K394,0.23,0.28
+17,17K397,Elementary,EMS,P.S. 397 Foster-Laurie,0.63,0.48
+17,17K398,Elementary,EMS,P.S. 398 Walter Weaver,0.39,0.29
+17,17K399,Elementary,EMS,P.S. 399 Stanley Eugene Clark,0.19,0.29
+17,17K408,High School,HS,Academy of Hospitality and Tourism,0.53,0.3
+17,17K467,YABC,YABC,Erasmus Yabc,0.31,0.24
+17,17K484,Middle,EMS,Ronald Edmonds Learning Center II,0.66,0.36
+17,17K489,High School Transfer,HST,W.E.B. Dubois Academic High School,0.52,0.36
+17,17K524,High School,HS,International High School at Prospect Heights,0.69,0.48
+17,17K528,High School,HS,The High School for Global Citizenship,0.46,0.3
+17,17K531,High School,HS,"School for Human Rights, The",0.58,0.41
+17,17K531,Middle,EMS,"School for Human Rights, The",0.57,0.41
+17,17K532,Elementary,EMS,New Bridges Elementary,0.46,0.32
+17,17K537,High School,HS,High School for Youth and Community Development at,0.51,0.38
+17,17K539,High School,HS,High School for Service  Learning at Erasmus,0.53,0.31
+17,17K543,High School,HS,"Science, Technology and Research Early College Hig",0.45,0.73
+17,17K543,Middle,EMS,"Science, Technology and Research Early College Hig",0.6,0.68
+17,17K546,High School,HS,High School for Public Service: Heroes of Tomorrow,0.54,0.67
+17,17K547,High School,HS,Brooklyn Academy of Science and the Environment,0.56,0.37
+17,17K548,High School,HS,Brooklyn School for Music  Theatre,0.48,0.38
+17,17K568,High School Transfer,HST,Brownsville Academy High School,0.61,0.52
+17,17K590,High School,HS,Medgar Evers College Preparatory School,0.38,0.7
+17,17K590,Middle,EMS,Medgar Evers College Preparatory School,0.25,0.9
+17,17K600,High School,HS,Clara Barton High School,0.44,0.42
+17,17K705,Elementary,EMS,Brooklyn Arts and Science Elementary School,0.19,0.23
+17,17K722,Middle,EMS,New Heights Middle School,0.37,0.24
+17,17K745,High School,HS,Brooklyn Institute for Liberal Arts,0.81,0.62
+17,17K751,High School,HS,Academy for Health Careers,0.51,0.41
+17,17K770,Elementary,EMS,P.S. 770 New American Academy,0.25,0.38
+18,18K066,K-8,EMS,P.S. 66,0.3,0.43
+18,18K068,Middle,EMS,I.S. 068 Isaac Bildersee,0.46,0.25
+18,18K114,Elementary,EMS,P.S. 114 Ryder Elementary,0.57,0.39
+18,18K115,Elementary,EMS,P.S. 115 Daniel Mucatel School,0.32,0.4
+18,18K135,Elementary,EMS,P.S. 135 Sheldon A. Brookner,0.11,0.33
+18,18K208,Elementary,EMS,P.S. 208 Elsa Ebeling,0.26,0.31
+18,18K211,Middle,EMS,I.S. 211 John Wilson,0.45,0.32
+18,18K219,Elementary,EMS,P.S. 219 Kennedy-King,0.16,0.24
+18,18K233,Elementary,EMS,P.S. 233 Langston Hughes,0.25,0.35
+18,18K235,K-8,EMS,P.S. 235 Janice Marie Knight School,0.4,0.75
+18,18K244,Elementary,EMS,P.S. 244 Richard R. Green,0.38,0.42
+18,18K268,Elementary,EMS,P.S. 268 Emma Lazarus,0.43,0.29
+18,18K272,Elementary,EMS,P.S. 272 Curtis Estabrook,0.3,0.17
+18,18K276,Elementary,EMS,P.S. 276 Louis Marshall,0.3,0.31
+18,18K279,Elementary,EMS,P.S. 279 Herman Schreiber,0.34,0.37
+18,18K285,Middle,EMS,I.S. 285 Meyer Levin,0.48,0.37
+18,18K366,Middle,EMS,The Science And Medicine Middle School,0.36,0.33
+18,18K563,High School,HS,It Takes a Village Academy,0.82,0.61
+18,18K566,High School,HS,Brooklyn Generation School,0.55,0.27
+18,18K567,High School,HS,Brooklyn Theatre Arts High School,0.51,0.38
+18,18K569,High School,HS,Kurt Hahn Expeditionary Learning School,0.62,0.41
+18,18K576,High School,HS,Victory Collegiate High School,0.47,0.34
+18,18K578,High School Transfer,HST,Brooklyn Bridge Academy,0.63,0.46
+18,18K581,Middle,EMS,East Flatbush Community Research School,0.52,0.29
+18,18K588,Middle,EMS,Middle School for Art and Philosophy,0.53,0.27
+18,18K598,Middle,EMS,Middle School of Marketing and Legal Studies,0.59,0.33
+18,18K617,High School,HS,High School for Innovation in Advertising and Medi,0.43,0.3
+18,18K629,High School,HS,Cultural Academy for the Arts and Sciences,0.57,0.38
+18,18K633,High School,HS,High School for Medical Professions,0.47,0.55
+18,18K635,High School Transfer,HST,Olympus Academy,0.31,0.25
+18,18K637,High School,HS,Academy for Conservation and the Environment,0.68,0.41
+18,18K642,High School,HS,Urban Action Academy,0.47,0.29
+18,18K673,High School Transfer,HST,East Brooklyn Community High School,0.68,0.55
+18,18K763,Middle,EMS,Brooklyn Science and Engineering Academy,0.38,0.45
+18,18K922,YABC,YABC,South Shore Educational Complex Yabc,0.47,0.43
+19,19K007,Elementary,EMS,P.S. 007 Abraham Lincoln,0.33,0.32
+19,19K013,Elementary,EMS,P.S. 013 Roberto Clemente,0.4,0.25
+19,19K065,Elementary,EMS,P.S. 065,0.61,0.59
+19,19K089,K-8,EMS,P.S. 089 Cypress Hills,0.39,0.29
+19,19K108,Elementary,EMS,P.S. 108 Sal Abbracciamento,0.9,0.58
+19,19K149,Elementary,EMS,P.S. 149 Danny Kaye,0.45,0.28
+19,19K158,Elementary,EMS,P.S. 158 Warwick,0.49,0.33
+19,19K159,Elementary,EMS,P.S. 159 Isaac Pitkin,0.48,0.36
+19,19K171,Middle,EMS,I.S. 171 Abraham Lincoln,0.32,0.29
+19,19K190,Elementary,EMS,P.S. 190 Sheffield,0.38,0.36
+19,19K202,Elementary,EMS,P.S. 202 Ernest S. Jenkyns,0.26,0.16
+19,19K213,Elementary,EMS,P.S. 213 New Lots,0.23,0.16
+19,19K214,Elementary,EMS,P.S. 214 Michael Friedsam,0.41,0.35
+19,19K218,Middle,EMS,J.H.S. 218 James P. Sinnott,0.44,0.22
+19,19K224,Elementary,EMS,P.S. 224 Hale A. Woodruff,0.23,0.15
+19,19K273,Elementary,EMS,P.S. 273 Wortman,0.31,0.22
+19,19K290,Elementary,EMS,P.S. 290 Juan Morel Campos,0.32,0.35
+19,19K292,Middle,EMS,J.H.S. 292 Margaret S. Douglas,0.63,0.37
+19,19K306,Elementary,EMS,P.S. 306 Ethan Allen,0.69,0.27
+19,19K325,Elementary,EMS,The Fresh Creek School,0.61,0.41
+19,19K328,Elementary,EMS,P.S. 328 Phyllis Wheatley,0.26,0.22
+19,19K345,Elementary,EMS,P.S. 345 Patrolman Robert Bolden,0.33,0.29
+19,19K346,Elementary,EMS,P.S. 346 Abe Stark,0.37,0.31
+19,19K364,Middle,EMS,I.S. 364 Gateway,0.35,0.3
+19,19K404,High School,HS,Academy for Young Writers,0.45,0.48
+19,19K404,Middle,EMS,Academy for Young Writers,0.26,0.28
+19,19K409,High School,HS,East New York Family Academy,0.54,0.56
+19,19K409,Middle,EMS,East New York Family Academy,0.53,0.48
+19,19K422,High School,HS,Spring Creek Community School,0.46,0.44
+19,19K422,Middle,EMS,Spring Creek Community School,0.44,0.31
+19,19K431,YABC,YABC,Thomas Jefferson Yabc,0.37,0.3
+19,19K452,Middle,EMS,Frederick Douglass Academy VIII Middle School,0.3,0.45
+19,19K501,YABC,YABC,Franklin K. Lane Campus YABC,0.49,0.37
+19,19K502,High School,HS,FDNY - Captain Vernon A. Richard High School for F,0.45,0.27
+19,19K504,High School,HS,High School for Civil Rights,0.43,0.16
+19,19K507,High School,HS,Performing Arts and Technology High School,0.62,0.37
+19,19K510,High School,HS,World Academy for Total Community Health High Scho,0.52,0.28
+19,19K557,Elementary,EMS,Brooklyn Gardens Elementary School,0.17,0.13
+19,19K583,High School,HS,Multicultural High School,0.54,0.34
+19,19K615,High School,HS,Transit Tech Career and Technical Education High S,0.47,0.36
+19,19K618,High School,HS,Academy of Innovative Technology,0.62,0.47
+19,19K639,High School,HS,Brooklyn Lab School,0.38,0.22
+19,19K654,Middle,EMS,Van Siclen Community Middle School,0.43,0.2
+19,19K659,High School,HS,Cypress Hills Collegiate Preparatory School,0.72,0.46
+19,19K660,High School,HS,W. H. Maxwell Career and Technical Education High,0.71,0.39
+19,19K661,Middle,EMS,Vista Academy,0.28,0.36
+19,19K662,Middle,EMS,Liberty Avenue Middle School,0.32,0.33
+19,19K663,Middle,EMS,School of the Future Brooklyn,0.28,0.14
+19,19K677,Elementary,EMS,East New York Elementary School of Excellence,0.32,0.24
+19,19K678,Middle,EMS,East New York Middle School of Excellence,0.38,0.25
+19,19K683,High School,HS,"The School for Classics: An Academy of Thinkers, W",0.51,0.3
+19,19K760,Middle,EMS,Highland Park Community School,0.18,0.31
+19,19K764,High School,HS,The Urban Assembly School for Collaborative Health,0.6,0.44
+20,20K030,K-8,EMS,P.S./I.S. 30 Mary White Ovington,0.42,0.53
+20,20K048,Elementary,EMS,P.S. 048 Mapleton,0.6,0.53
+20,20K062,Middle,EMS,J.H.S. 062 Ditmas,0.47,0.46
+20,20K069,Elementary,EMS,P.S. 69 Vincent D. Grippo School,0.71,0.72
+20,20K102,Elementary,EMS,P.S. 102 The Bayview,0.45,0.65
+20,20K104,K-8,EMS,P.S./I.S. 104 The Fort Hamilton School,0.38,0.58
+20,20K105,Elementary,EMS,P.S. 105 The Blythebourne,0.53,0.73
+20,20K112,Elementary,EMS,P.S. 112 Lefferts Park,0.72,0.68
+20,20K127,Elementary,EMS,P.S. 127 Mckinley Park,0.48,0.61
+20,20K160,Elementary,EMS,P.S. 160 William T. Sampson,0.66,0.64
+20,20K163,K-8,EMS,P.S. 163 Bath Beach,0.47,0.49
+20,20K164,Elementary,EMS,P.S. 164 Caesar Rodney,0.67,0.59
+20,20K170,Elementary,EMS,Ralph A. Fabrizio School,0.64,0.58
+20,20K176,Elementary,EMS,P.S. 176 Ovington,0.66,0.74
+20,20K179,Elementary,EMS,P.S. 179 Kensington,0.51,0.38
+20,20K180,K-8,EMS,The SEEALL Academy,0.46,0.58
+20,20K185,Elementary,EMS,P.S. 185 Walter Kassenbrock,0.51,0.74
+20,20K186,Elementary,EMS,P.S. 186 Dr. Irving A Gladstone,0.51,0.56
+20,20K187,Middle,EMS,The Christa McAuliffe School\I.S. 187,0.54,0.92
+20,20K192,K-8,EMS,P.S. 192 - The Magnet School for Math and Science,0.65,0.44
+20,20K200,Elementary,EMS,P.S. 200 Benson School,0.32,0.53
+20,20K201,Middle,EMS,J.H.S. 201 The Dyker Heights,0.52,0.75
+20,20K204,Elementary,EMS,P.S. 204 Vince Lombardi,0.72,0.77
+20,20K205,Elementary,EMS,P.S. 205 Clarion,0.61,0.67
+20,20K220,Middle,EMS,J.H.S. 220 John J. Pershing,0.49,0.48
+20,20K223,Middle,EMS,J.H.S. 223 The Montauk,0.48,0.51
+20,20K227,Middle,EMS,J.H.S. 227 Edward B. Shallow,0.32,0.47
+20,20K229,K-8,EMS,P.S. 229 Dyker,0.48,0.68
+20,20K247,Elementary,EMS,P.S. 247 Brooklyn,0.67,0.77
+20,20K259,Middle,EMS,J.H.S. 259 William Mckinley,0.53,0.7
+20,20K264,Elementary,EMS,P.S. 264 Bay Ridge Elementary School For The Arts,0.64,0.64
+20,20K310,Elementary,EMS,The School For Future Leaders,0.71,0.77
+20,20K445,High School,HS,New Utrecht High School,0.46,0.48
+20,20K485,High School,HS,High School of Telecommunication Arts and Technolo,0.55,0.64
+20,20K490,High School,HS,Fort Hamilton High School,0.41,0.54
+20,20K503,Elementary,EMS,P.S. 503: The School of Discovery,0.52,0.35
+20,20K505,High School,HS,Franklin Delano Roosevelt High School,0.53,0.4
+20,20K506,Elementary,EMS,P.S. 506: The School of Journalism  Technology,0.43,0.36
+20,20K609,High School,HS,Urban Assembly School for Criminal Justice,0.76,0.71
+20,20K609,Middle,EMS,Urban Assembly School for Criminal Justice,0.7,0.57
+20,20K658,YABC,YABC,Franklin Delano Roosevelt YABC,0.55,0.52
+20,20K682,Elementary,EMS,The Academy of Talented Scholars,0.65,0.77
+20,20K686,K-8,EMS,Brooklyn School of Inquiry,0.63,0.96
+20,20K748,Elementary,EMS,P.S. 748 Brooklyn School for Global Scholars,0.37,0.79
+20,20K971,Elementary,EMS,"School of Math, Science, and Healthy Living",0.48,0.48
+21,21K090,Elementary,EMS,P.S. 90 Edna Cohen School,0.45,0.38
+21,21K095,K-8,EMS,P.S. 095 The Gravesend,0.5,0.52
+21,21K096,Middle,EMS,I.S. 096 Seth Low,0.5,0.43
+21,21K097,Elementary,EMS,P.S. 97 The Highlawn,0.55,0.55
+21,21K098,Middle,EMS,I.S. 98 Bay Academy,0.72,0.89
+21,21K099,K-8,EMS,P.S. 099 Isaac Asimov,0.51,0.44
+21,21K100,Elementary,EMS,P.S. 100 The Coney Island School,0.53,0.73
+21,21K101,Elementary,EMS,P.S. 101 The Verrazano,0.88,0.78
+21,21K121,K-8,EMS,P.S. 121 Nelson A. Rockefeller,0.58,0.56
+21,21K128,Elementary,EMS,P.S. 128 Bensonhurst,0.42,0.4
+21,21K153,Elementary,EMS,P.S. 153 Homecrest,0.48,0.52
+21,21K177,Elementary,EMS,P.S. 177 The Marlboro,0.51,0.51
+21,21K188,Elementary,EMS,P.S. 188 Michael E. Berdy,0.32,0.27
+21,21K199,Elementary,EMS,P.S. 199 Frederick Wachtel,0.48,0.52
+21,21K209,K-8,EMS,P.S. 209 Margaret Mead,0.55,0.5
+21,21K212,Elementary,EMS,P.S. 212 Lady Deborah Moody,0.64,0.47
+21,21K215,Elementary,EMS,P.S. 215 Morris H. Weiss,0.47,0.68
+21,21K216,Elementary,EMS,P.S. 216 Arturo Toscanini,0.56,0.6
+21,21K225,K-8,EMS,P.S. K225 - The Eileen E. Zaglin,0.43,0.33
+21,21K226,K-8,EMS,P.S. 226 Alfred De B.Mason,0.55,0.56
+21,21K228,Middle,EMS,I.S. 228 David A. Boody,0.43,0.58
+21,21K238,K-8,EMS,P.S. 238 Anne Sullivan,0.38,0.32
+21,21K239,Middle,EMS,Mark Twain I.S. 239 for the Gifted  Talented,0.47,0.94
+21,21K253,Elementary,EMS,P.S. 253,0.89,0.81
+21,21K281,Middle,EMS,I.S. 281 Joseph B Cavallaro,0.53,0.54
+21,21K288,K-8,EMS,P.S. 288 The Shirley Tanyhill,0.47,0.2
+21,21K303,Middle,EMS,I.S. 303 Herbert S. Eisenberg,0.41,0.43
+21,21K329,Elementary,EMS,P.S. 329 Surfside,0.38,0.25
+21,21K337,High School,HS,International High School at Lafayette,0.45,0.43
+21,21K344,High School,HS,Rachel Carson High School for Coastal Studies,0.48,0.47
+21,21K348,High School,HS,High School of Sports Management,0.41,0.3
+21,21K410,High School,HS,Abraham Lincoln High School,0.47,0.4
+21,21K411,YABC,YABC,Abraham Lincoln Yabc,0.5,0.54
+21,21K468,High School,HS,Kingsborough Early College School,0.65,0.82
+21,21K468,Middle,EMS,Kingsborough Early College School,0.54,0.56
+21,21K525,High School,HS,Edward R. Murrow High School,0.38,0.57
+21,21K540,High School,HS,John Dewey High School,0.5,0.5
+21,21K559,High School,HS,Life Academy High School for Film and Music,0.57,0.52
+21,21K572,High School,HS,Expeditionary Learning School for Community Leader,0.83,0.74
+21,21K620,High School,HS,William E. Grady Career and Technical Education Hi,0.33,0.23
+21,21K690,High School,HS,Brooklyn Studio Secondary School,0.46,0.55
+21,21K690,Middle,EMS,Brooklyn Studio Secondary School,0.55,0.53
+21,21K728,High School Transfer,HST,Liberation Diploma Plus,0.45,0.33
+22,22K014,Middle,EMS,J.H.S. 014 Shell Bank,0.37,0.33
+22,22K052,Elementary,EMS,P.S. 052 Sheepshead Bay,0.37,0.49
+22,22K078,Middle,EMS,J.H.S. 078 Roy H. Mann,0.23,0.33
+22,22K109,K-8,EMS,P.S. 109,0.44,0.36
+22,22K119,Elementary,EMS,P.S. 119 Amersfort,0.38,0.38
+22,22K134,Elementary,EMS,P.S. K134,0.85,0.84
+22,22K139,Elementary,EMS,P.S. 139 Alexine A. Fenty,0.35,0.36
+22,22K152,Elementary,EMS,School of Science  Technology,0.36,0.34
+22,22K193,Elementary,EMS,P.S. 193 Gil Hodges,0.51,0.48
+22,22K194,Elementary,EMS,P.S. 194 Raoul Wallenberg,0.41,0.36
+22,22K195,Elementary,EMS,P.S. 195 Manhattan Beach,0.53,0.88
+22,22K197,Elementary,EMS,P.S. 197 - The Kings Highway Academy,0.49,0.57
+22,22K198,Elementary,EMS,P.S. 198 Brooklyn,0.23,0.35
+22,22K203,Elementary,EMS,P.S. 203 Floyd Bennett School,0.46,0.43
+22,22K206,K-8,EMS,P.S. 206 Joseph F Lamb,0.46,0.61
+22,22K207,K-8,EMS,P.S. 207 Elizabeth G. Leary,0.38,0.57
+22,22K217,Elementary,EMS,P.S. 217 Colonel David Marcus School,0.38,0.49
+22,22K222,Elementary,EMS,P.S. 222 Katherine R. Snyder,0.61,0.77
+22,22K234,Middle,EMS,J.H.S. 234 Arthur W. Cunningham,0.41,0.65
+22,22K236,Elementary,EMS,P.S. 236 Mill Basin,0.27,0.75
+22,22K240,Middle,EMS,Andries Hudde,0.33,0.39
+22,22K245,Elementary,EMS,P.S. 245,0.49,0.43
+22,22K251,Elementary,EMS,P.S. 251 Paerdegat,0.21,0.3
+22,22K254,Elementary,EMS,P.S. 254 Dag Hammarskjold,0.43,0.7
+22,22K255,Elementary,EMS,P.S. 255 Barbara Reing School,0.45,0.58
+22,22K269,Elementary,EMS,P.S. 269 Nostrand,0.5,0.34
+22,22K277,Elementary,EMS,P.S. 277 Gerritsen Beach,0.28,0.66
+22,22K278,Middle,EMS,J.H.S. 278 Marine Park,0.42,0.56
+22,22K312,Elementary,EMS,P.S. 312 Bergen Beach,0.38,0.69
+22,22K315,Elementary,EMS,P.S. K315,0.45,0.38
+22,22K381,Middle,EMS,I. S. 381,0.56,0.51
+22,22K405,High School,HS,Midwood High School,0.52,0.74
+22,22K425,High School,HS,James Madison High School,0.43,0.56
+22,22K535,High School,HS,Leon M. Goldstein High School for the Sciences,0.57,0.83
+22,22K555,High School,HS,Brooklyn College Academy,0.59,0.79
+22,22K611,High School,HS,Origins High School,0.59,0.49
+22,22K630,High School Transfer,HST,Professional Pathways High School,0.64,0.53
+22,22K890,Middle,EMS,M.S. 890,,
+23,23K041,K-8,EMS,P.S. 041 Francis White,0.42,0.19
+23,23K137,K-8,EMS,P.S./I.S. 137 Rachel Jean Mitchell,0.44,0.25
+23,23K150,Elementary,EMS,P.S. 150 Christopher,0.29,0.11
+23,23K155,K-8,EMS,P.S./ I.S. 155 Nicholas Herkimer,0.41,0.29
+23,23K156,Elementary,EMS,P.S. 156 Waverly,0.2,0.2
+23,23K165,Elementary,EMS,P.S. 165 Ida Posner,0.75,0.32
+23,23K178,K-8,EMS,P.S. 178 Saint Clair Mckelway,0.34,0.26
+23,23K184,K-8,EMS,P.S. 184 Newport,0.32,0.2
+23,23K284,K-8,EMS,"The Gregory Jocko Jackson School of Sports, Art, a",0.41,0.22
+23,23K298,Elementary,EMS,P.S. 298 Dr. Betty Shabazz,0.41,0.3
+23,23K323,K-8,EMS,P.S./I.S. 323,0.3,0.22
+23,23K327,K-8,EMS,P.S. 327 Dr. Rose B. English,0.3,0.14
+23,23K363,Middle,EMS,Brownsville Collaborative Middle School,0.39,0.21
+23,23K392,Middle,EMS,I.S. 392,0.32,0.61
+23,23K401,Elementary,EMS,Christopher Avenue Community School,0.43,0.33
+23,23K446,Elementary,EMS,Riverdale Avenue Community School,0.34,0.2
+23,23K493,High School,HS,Brooklyn Collegiate: A College Board School,0.61,0.39
+23,23K514,High School,HS,Frederick Douglass Academy VII High School,0.5,0.24
+23,23K518,Middle,EMS,Kappa V (Knowledge and Power Preparatory Academy),0.25,0.25
+23,23K522,Middle,EMS,Mott Hall IV,0.47,0.27
+23,23K599,Elementary,EMS,Brooklyn Landmark Elementary School,0.76,0.76
+23,23K643,High School Transfer,HST,Brooklyn Democracy Academy,0.5,0.35
+23,23K644,High School,HS,Eagle Academy for Young Men II,0.61,0.53
+23,23K644,Middle,EMS,Eagle Academy for Young Men II,0.55,0.44
+23,23K646,High School Transfer,HST,Aspirations Diploma Plus High School,0.42,0.32
+23,23K647,High School Transfer,HST,Metropolitan Diploma Plus High School,0.71,0.51
+23,23K664,Middle,EMS,Brooklyn Environmental Exploration School (BEES),0.49,0.26
+23,23K668,Middle,EMS,Riverdale Avenue Middle School,0.43,0.2
+23,23K671,Middle,EMS,Mott Hall Bridges Academy,0.56,0.31
+23,23K697,High School,HS,Teachers Preparatory High School,0.44,0.25
+23,23K697,Middle,EMS,Teachers Preparatory High School,0.28,0.23
+24,24Q005,Middle,EMS,I.S. 5 - The Walter Crowley Intermediate School,0.5,0.59
+24,24Q012,Elementary,EMS,P.S. 012 James B. Colgate,0.55,0.64
+24,24Q013,Elementary,EMS,P.S. 013 Clement C. Moore,0.32,0.47
+24,24Q014,Elementary,EMS,P.S. 014 Fairview,0.35,0.31
+24,24Q016,Elementary,EMS,P.S. Q016 The Nancy DeBenedittis School,0.39,0.33
+24,24Q019,Elementary,EMS,P.S. 019 Marino Jeantet,0.54,0.39
+24,24Q049,K-8,EMS,P.S. 049 Dorothy Bonawit Kole,0.44,0.66
+24,24Q058,Elementary,EMS,P.S. 58 - The School of Heroes,0.6,0.6
+24,24Q061,Middle,EMS,I.S. 061 Leonardo Da Vinci,0.49,0.38
+24,24Q068,Elementary,EMS,P.S. 068 Cambridge,0.43,0.4
+24,24Q071,Elementary,EMS,P.S. 071 Forest,0.3,0.38
+24,24Q073,Middle,EMS,I.S. 73 - The Frank Sansivieri Intermediate School,0.53,0.59
+24,24Q077,Middle,EMS,I.S. 077,0.43,0.38
+24,24Q081,Elementary,EMS,P.S. 81Q Jean Paul Richter,0.5,0.46
+24,24Q087,K-8,EMS,P.S./I.S. 087 Middle Village,0.29,0.45
+24,24Q088,Elementary,EMS,P.S. 088 Seneca,0.13,0.37
+24,24Q089,Elementary,EMS,P.S. 089 Elmhurst,0.52,0.5
+24,24Q091,Elementary,EMS,P.S. 091 Richard Arkwright,0.43,0.44
+24,24Q093,Middle,EMS,I.S. 093 Ridgewood,0.41,0.47
+24,24Q102,K-8,EMS,P.S. 102 Bayview,0.56,0.61
+24,24Q110,Elementary,EMS,P.S. 110,0.53,0.46
+24,24Q113,K-8,EMS,P.S./I.S. 113 Anthony J. Pranzo,0.42,0.66
+24,24Q119,K-8,EMS,I.S. 119 The Glendale,0.38,0.67
+24,24Q125,Middle,EMS,I.S. 125 Thom J. McCann Woodside,0.43,0.54
+24,24Q128,K-8,EMS,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elemen",0.4,0.72
+24,24Q143,Elementary,EMS,P.S. 143 Louis Armstrong,0.26,0.24
+24,24Q153,Elementary,EMS,P.S. 153 Maspeth Elem,0.42,0.6
+24,24Q199,Elementary,EMS,P.S. 199 Maurice A. Fitzgerald,0.51,0.49
+24,24Q211,Elementary,EMS,Elm Tree Elementary School,,
+24,24Q229,Elementary,EMS,P.S. 229 Emanuel Kaplan,0.45,0.58
+24,24Q236,High School,HS,International High School for Health Sciences,0.34,0.36
+24,24Q239,Elementary,EMS,P.S. 239,0.57,0.38
+24,24Q264,High School,HS,Academy of Finance and Enterprise,0.7,0.77
+24,24Q267,High School,HS,High School of Applied Communication,0.53,0.57
+24,24Q290,Elementary,EMS,A.C.E. Academy for Scholars at the Geraldine Ferra,0.57,0.76
+24,24Q293,High School,HS,Civic Leadership Academy,0.72,0.69
+24,24Q296,High School,HS,Pan American International High School,0.78,0.54
+24,24Q299,High School,HS,Bard High School Early College Queens,0.49,0.91
+24,24Q305,Elementary,EMS,Learners and Leaders,0.74,0.58
+24,24Q307,Elementary,EMS,Pioneer Academy,0.54,0.43
+24,24Q311,Middle,EMS,Corona Arts  Sciences Academy,0.39,0.43
+24,24Q330,Elementary,EMS,P.S. 330,0.33,0.38
+24,24Q455,High School,HS,Newtown High School,0.6,0.42
+24,24Q457,YABC,YABC,H.S. Arts  Business Yabc,0.28,0.37
+24,24Q485,High School,HS,Grover Cleveland High School,0.34,0.32
+24,24Q520,High School,HS,Middle College High School at LaGuardia Community,0.58,0.67
+24,24Q530,High School,HS,International High School at LaGuardia Community C,0.73,0.66
+24,24Q550,High School,HS,High School for Arts and Business,0.69,0.68
+24,24Q560,High School,HS,"Robert F. Wagner, Jr. Secondary School for Arts an",0.58,0.69
+24,24Q560,Middle,EMS,"Robert F. Wagner, Jr. Secondary School for Arts an",0.51,0.94
+24,24Q585,High School,HS,Maspeth High School,0.64,0.83
+24,24Q600,High School,HS,Queens Vocational and Technical High School,0.48,0.56
+24,24Q610,High School,HS,Aviation Career  Technical Education High School,0.68,0.81
+24,24Q744,High School Transfer,HST,VOYAGES Preparatory,0.49,0.38
+24,24Q877,Elementary,EMS,The 51 Avenue Academy (The Path To Academic Excell,0.73,0.59
+25,25Q020,Elementary,EMS,P.S. 020 John Bowne,0.49,0.64
+25,25Q021,Elementary,EMS,P.S. 021 Edward Hart,0.46,0.68
+25,25Q022,Elementary,EMS,P.S. 022 Thomas Jefferson,0.8,0.75
+25,25Q024,Elementary,EMS,P.S. 024 Andrew Jackson,0.77,0.77
+25,25Q025,Middle,EMS,I.S. 025 Adrien Block,0.38,0.66
+25,25Q029,Elementary,EMS,P.S. 029 Queens,0.63,0.54
+25,25Q032,Elementary,EMS,P.S. 032 State Street,0.58,0.78
+25,25Q079,Elementary,EMS,P.S. 079 Francis Lewis,0.42,0.76
+25,25Q107,Elementary,EMS,P.S. 107 Thomas A Dooley,0.62,0.69
+25,25Q120,Elementary,EMS,P.S. 120 Queens,0.55,0.58
+25,25Q129,Elementary,EMS,P.S. 129 Patricia Larkin,0.44,0.69
+25,25Q130,Elementary,EMS,P.S. 130,,
+25,25Q154,Elementary,EMS,P.S. 154 Queens,0.52,0.66
+25,25Q163,Elementary,EMS,P.S. 163 Flushing Heights,0.62,0.72
+25,25Q164,K-8,EMS,P.S. 164 Queens Valley,0.4,0.62
+25,25Q165,Elementary,EMS,P.S. 165 Edith K. Bergtraum,0.62,0.66
+25,25Q169,Elementary,EMS,P.S. 169 Bay Terrace,0.62,0.73
+25,25Q184,Elementary,EMS,P.S. 184 Flushing Manor,0.51,0.78
+25,25Q185,Middle,EMS,J.H.S. 185 Edward Bleeker,0.45,0.67
+25,25Q189,Middle,EMS,J.H.S. 189 Daniel Carter Beard,0.36,0.56
+25,25Q193,Elementary,EMS,P.S. 193 Alfred J. Kennedy,0.44,0.78
+25,25Q194,Middle,EMS,J.H.S. 194 William Carr,0.32,0.63
+25,25Q200,K-8,EMS,P.S./M.S. 200 - The Pomonok School  STAR Academy,0.31,0.46
+25,25Q201,Elementary,EMS,P.S. 201 The Discovery School for Inquiry and Rese,0.33,0.33
+25,25Q209,Elementary,EMS,P.S. 209 Clearview Gardens,0.26,0.73
+25,25Q214,Elementary,EMS,P.S. 214 Cadwallader Colden,0.48,0.68
+25,25Q219,K-8,EMS,P.S. 219 Paul Klapper,0.62,0.58
+25,25Q237,Middle,EMS,I.S. 237,0.38,0.61
+25,25Q240,High School,HS,Veritas Academy,0.56,0.51
+25,25Q241,High School,HS,Queens High School for Language Studies,0.82,0.79
+25,25Q250,Middle,EMS,I.S. 250 The Robert F. Kennedy Community Middle Sc,0.37,0.4
+25,25Q252,High School,HS,"Queens School of Inquiry, The",0.59,0.8
+25,25Q252,Middle,EMS,"Queens School of Inquiry, The",0.31,0.65
+25,25Q263,High School,HS,Flushing International High School,0.52,0.47
+25,25Q281,High School,HS,East-West School of International Studies,0.66,0.76
+25,25Q281,Middle,EMS,East-West School of International Studies,0.54,0.88
+25,25Q285,High School,HS,World Journalism Preparatory: A College Board Scho,0.58,0.75
+25,25Q285,Middle,EMS,World Journalism Preparatory: A College Board Scho,0.42,0.71
+25,25Q294,Middle,EMS,BELL Academy,0.73,0.84
+25,25Q425,High School,HS,John Bowne High School,0.5,0.46
+25,25Q460,High School,HS,Flushing High School,0.28,0.3
+25,25Q467,YABC,YABC,Flushing Yabc,0.52,0.57
+25,25Q499,K-8,EMS,"The Queens College School for Math, Science and Te",0.49,0.8
+25,25Q525,High School,HS,Townsend Harris High School,0.6,0.93
+25,25Q540,High School Transfer,HST,Queens Academy High School,0.23,0.27
+25,25Q670,High School,HS,Robert F. Kennedy Community High School,0.53,0.56
+25,25Q792,High School Transfer,HST,North Queens Community High School,0.37,0.32
+26,26Q018,Elementary,EMS,P.S. 018 Winchester,0.5,0.8
+26,26Q026,Elementary,EMS,P.S. 026 Rufus King,0.59,0.74
+26,26Q031,Elementary,EMS,P.S. 031 Bayside,0.41,0.65
+26,26Q041,Elementary,EMS,P.S. 041 Crocheron,0.76,0.93
+26,26Q046,Elementary,EMS,P.S. 046 Alley Pond,0.5,0.81
+26,26Q067,Middle,EMS,J.H.S. 067 Louis Pasteur,0.39,0.91
+26,26Q074,Middle,EMS,J.H.S. 074 Nathaniel Hawthorne,0.35,0.85
+26,26Q094,Elementary,EMS,P.S. 094 David D. Porter,0.86,0.89
+26,26Q098,Elementary,EMS,P.S. 098 The Douglaston School,0.26,0.87
+26,26Q115,Elementary,EMS,The James J. Ambrose School,0.47,0.86
+26,26Q133,Elementary,EMS,P.S. 133 Queens,0.54,0.77
+26,26Q158,Middle,EMS,M.S. 158 Marie Curie,0.29,0.77
+26,26Q159,Elementary,EMS,P.S. 159,0.53,0.84
+26,26Q162,Elementary,EMS,P.S. 162 John Golden,0.31,0.72
+26,26Q172,Middle,EMS,Irwin Altman Middle School 172,0.43,0.73
+26,26Q173,Elementary,EMS,P.S. 173 Fresh Meadows,0.56,0.78
+26,26Q178,K-8,EMS,P.S./ IS 178 Holliswood,0.46,0.62
+26,26Q186,Elementary,EMS,P.S. 186 Castlewood,0.45,0.72
+26,26Q188,Elementary,EMS,P.S. 188 Kingsbury,0.41,0.97
+26,26Q191,Elementary,EMS,P.S. 191 Mayflower,0.56,0.8
+26,26Q203,Elementary,EMS,P.S. 203 Oakland Gardens,0.73,0.96
+26,26Q205,Elementary,EMS,P.S. 205 Alexander Graham Bell,0.43,0.86
+26,26Q213,Elementary,EMS,P.S. 213 The Carl Ullman School,0.35,0.73
+26,26Q216,Middle,EMS,J.H.S. 216 George J. Ryan,0.58,0.85
+26,26Q221,Elementary,EMS,P.S. 221 The North Hills School,0.41,0.78
+26,26Q266,K-8,EMS,P.S./I.S. 266,0.37,0.66
+26,26Q315,High School,HS,Business Technology Early College High School,0.5,0.64
+26,26Q415,High School,HS,Benjamin N. Cardozo High School,0.49,0.66
+26,26Q430,High School,HS,Francis Lewis High School,0.51,0.71
+26,26Q435,High School,HS,Martin Van Buren High School,0.35,0.39
+26,26Q495,High School,HS,Bayside High School,0.68,0.77
+26,26Q566,High School,HS,"Queens High School of Teaching, Liberal Arts and t",0.41,0.59
+27,27Q042,K-8,EMS,P.S./M.S 042 R. Vernam,0.38,0.19
+27,27Q043,K-8,EMS,P.S. 043,0.37,0.26
+27,27Q045,Elementary,EMS,P.S. 045 Clarence Witherspoon,0.32,0.25
+27,27Q047,K-8,EMS,P.S. 047 Chris Galas,0.64,0.62
+27,27Q053,Middle,EMS,M.S. 053 Brian Piccolo,0.42,0.14
+27,27Q056,Elementary,EMS,P.S. 056 Harry Eichler,0.36,0.47
+27,27Q060,Elementary,EMS,P.S. 060 Woodhaven,0.78,0.65
+27,27Q062,Elementary,EMS,P. S. 62 - Chester Park School,0.37,0.54
+27,27Q063,Elementary,EMS,P.S. 063 Old South,0.51,0.55
+27,27Q064,Elementary,EMS,P.S. 064 Joseph P. Addabbo,0.45,0.56
+27,27Q065,Elementary,EMS,P.S. 65 - The Raymond York Elementary School,0.58,0.51
+27,27Q066,Elementary,EMS,P.S. 066 Jacqueline Kennedy Onassis,0.59,0.58
+27,27Q090,Elementary,EMS,P.S. 090 Horace Mann,0.39,0.5
+27,27Q096,Elementary,EMS,P.S. 096,0.47,0.6
+27,27Q097,Elementary,EMS,P.S. 097 Forest Park,0.32,0.52
+27,27Q100,Elementary,EMS,P.S. 100 Glen Morris,0.48,0.57
+27,27Q104,Elementary,EMS,P.S. 104 The Bays Water,0.53,0.36
+27,27Q105,K-8,EMS,P.S. 105 The Bay School,0.34,0.21
+27,27Q106,Elementary,EMS,Lighthouse Elementary School,0.36,0.21
+27,27Q108,Elementary,EMS,P.S. 108 Captain Vincent G. Fowler,0.47,0.6
+27,27Q114,K-8,EMS,P.S./M.S. 114 Belle Harbor,0.48,0.72
+27,27Q123,Elementary,EMS,P.S. 123,0.35,0.36
+27,27Q124,K-8,EMS,P.S. 124 Osmond A Church,0.36,0.48
+27,27Q137,Middle,EMS,M.S. 137 Americas School of Heroes,0.49,0.57
+27,27Q146,K-8,EMS,P.S. 146 Howard Beach,0.51,0.59
+27,27Q155,Elementary,EMS,P.S. 155,0.62,0.67
+27,27Q183,K-8,EMS,P.S. 183 Dr. Richard R. Green,0.58,0.23
+27,27Q197,Elementary,EMS,P.S. 197 The Ocean School,0.61,0.32
+27,27Q202,Middle,EMS,J.H.S. 202 Robert H. Goddard,0.34,0.56
+27,27Q207,K-8,EMS,P.S. 207 Rockwood Park,0.23,0.58
+27,27Q210,Middle,EMS,J.H.S. 210 Elizabeth Blackwell,0.24,0.46
+27,27Q223,Elementary,EMS,P.S. 223 Lyndon B. Johnson,0.32,0.35
+27,27Q226,Middle,EMS,J.H.S. 226 Virgil I. Grissom,0.23,0.34
+27,27Q232,K-8,EMS,P.S. 232 Lindenwood,0.6,0.6
+27,27Q253,Elementary,EMS,P.S. 253,0.35,0.31
+27,27Q254,Elementary,EMS,P.S. 254 - The Rosa Parks School,0.15,0.5
+27,27Q260,High School,HS,Frederick Douglass Academy VI High School,0.27,0.13
+27,27Q261,High School Transfer,HST,Voyages Prep - South Queens,0.78,0.58
+27,27Q262,High School,HS,Channel View School for Research,0.61,0.69
+27,27Q262,Middle,EMS,Channel View School for Research,0.28,0.58
+27,27Q273,Elementary,EMS,P.S. 273,0.23,0.43
+27,27Q282,Middle,EMS,Knowledge and Power Preparatory Academy VI,0.72,0.6
+27,27Q297,Middle,EMS,Hawtree Creek Middle School,0.32,0.43
+27,27Q302,High School,HS,"Queens High School for Information, Research, and",0.67,0.39
+27,27Q306,Elementary,EMS,New York City Academy for Discovery,0.36,0.4
+27,27Q308,High School,HS,Robert H. Goddard High School of Communication Art,0.64,0.71
+27,27Q309,High School,HS,Academy of Medical Technology: A College Board Sch,0.38,0.35
+27,27Q309,Middle,EMS,Academy of Medical Technology: A College Board Sch,0.38,0.32
+27,27Q314,High School,HS,Epic High School - South,0.35,0.32
+27,27Q317,Elementary,EMS,Waterside Childrens Studio School,0.4,0.43
+27,27Q318,Middle,EMS,Waterside School For Leadership,0.45,0.3
+27,27Q319,Middle,EMS,Village Academy,0.44,0.25
+27,27Q323,High School,HS,Scholars Academy,0.57,0.88
+27,27Q323,Middle,EMS,Scholars Academy,0.62,0.96
+27,27Q324,High School,HS,Rockaway Park High School for Environmental Sustai,0.46,0.28
+27,27Q333,K-8,EMS,Goldie Maple Academy,0.27,0.46
+27,27Q334,High School,HS,Epic High School - North,0.34,0.38
+27,27Q351,High School,HS,Rockaway Collegiate High School,0.31,0.23
+27,27Q362,Elementary,EMS,Wave Preparatory Elementary School,0.78,0.58
+27,27Q400,High School,HS,August Martin High School,0.58,0.33
+27,27Q475,High School,HS,Richmond Hill High School,0.38,0.35
+27,27Q480,High School,HS,John Adams High School,0.66,0.43
+27,27Q487,YABC,YABC,John Adams Yabc,0.54,0.6
+27,27Q650,High School,HS,"High School for Construction Trades, Engineering a",0.59,0.8
+28,28Q008,Middle,EMS,J.H.S. 008 Richard S. Grossley,0.42,0.33
+28,28Q040,Elementary,EMS,P.S. 040 Samuel Huntington,0.51,0.3
+28,28Q048,Elementary,EMS,P.S. 048 William Wordsworth,0.47,0.44
+28,28Q050,Elementary,EMS,P.S. 050 Talfourd Lawn Elementary School,0.53,0.55
+28,28Q054,Elementary,EMS,P.S. 054 Hillside,0.38,0.41
+28,28Q055,Elementary,EMS,P.S. 055 Maure,0.53,0.52
+28,28Q072,Middle,EMS,Catherine  Count Basie Middle School 72,0.34,0.23
+28,28Q080,Elementary,EMS,PS 80  The Thurgood Marshall Magnet School of Mult,0.3,0.37
+28,28Q082,Elementary,EMS,P.S. 082 Hammond,0.49,0.41
+28,28Q086,Elementary,EMS,P.S. Q086,0.6,0.49
+28,28Q099,Elementary,EMS,P.S. 099 Kew Gardens,0.71,0.64
+28,28Q101,Elementary,EMS,P.S. 101 School in the Gardens,0.48,0.86
+28,28Q117,Elementary,EMS,P.S. 117 J. Keld / Briarwood School,0.35,0.49
+28,28Q121,Elementary,EMS,P.S. 121 Queens,0.36,0.64
+28,28Q139,Elementary,EMS,P.S. 139 Rego Park,0.35,0.56
+28,28Q140,Elementary,EMS,P.S. 140 Edward K Ellington,0.69,0.53
+28,28Q144,Elementary,EMS,P.S. 144 Col Jeromus Remsen,0.34,0.74
+28,28Q157,High School,HS,J.H.S. 157 Stephen A. Halsey,0.87,0.79
+28,28Q157,Middle,EMS,J.H.S. 157 Stephen A. Halsey,0.51,0.69
+28,28Q160,Elementary,EMS,P.S. 160 Walter Francis Bishop,0.24,0.28
+28,28Q161,Elementary,EMS,P.S. 161 Arthur Ashe School,0.68,0.69
+28,28Q167,High School,HS,Metropolitan Expeditionary Learning School,0.62,0.71
+28,28Q167,Middle,EMS,Metropolitan Expeditionary Learning School,0.17,0.5
+28,28Q174,Elementary,EMS,P.S. 174 William Sidney Mount,0.33,0.71
+28,28Q175,Elementary,EMS,P.S. 175 The Lynn Gross Discovery School,0.31,0.56
+28,28Q182,Elementary,EMS,P.S. 182 Samantha Smith,0.42,0.37
+28,28Q190,Middle,EMS,J.H.S. 190 Russell Sage,0.35,0.68
+28,28Q196,Elementary,EMS,P.S. 196 Grand Central Parkway,0.79,0.97
+28,28Q206,Elementary,EMS,P.S. 206 The Horace Harding School,0.35,0.42
+28,28Q217,Middle,EMS,J.H.S. 217 Robert A. Van Wyck,0.51,0.48
+28,28Q220,Elementary,EMS,P.S. 220 Edward Mandel,0.22,0.46
+28,28Q284,High School,HS,York Early College Academy,0.61,0.84
+28,28Q284,Middle,EMS,York Early College Academy,0.47,0.73
+28,28Q287,Middle,EMS,The Emerson School,0.36,0.28
+28,28Q310,High School,HS,Queens Collegiate: A College Board School,0.46,0.5
+28,28Q310,Middle,EMS,Queens Collegiate: A College Board School,0.51,0.53
+28,28Q325,High School,HS,Hillside Arts  Letters Academy,0.72,0.57
+28,28Q328,High School,HS,High School for Community Leadership,0.88,0.68
+28,28Q332,Middle,EMS,Redwood Middle School,0.53,0.37
+28,28Q338,High School Transfer,HST,Queens Satellite High School for Opportunity,0.41,0.39
+28,28Q350,High School,HS,Jamaica Gateway to the Sciences,0.65,0.63
+28,28Q354,Elementary,EMS,The Jermaine L. Green STEM Institute of Queens,0.3,0.31
+28,28Q358,Middle,EMS,M.S. 358,0.48,0.44
+28,28Q440,High School,HS,Forest Hills High School,0.51,0.67
+28,28Q505,High School,HS,Hillcrest High School,0.53,0.46
+28,28Q620,High School,HS,Thomas A. Edison Career and Technical Education Hi,0.6,0.76
+28,28Q680,High School,HS,Queens Gateway to Health Sciences Secondary School,0.55,0.78
+28,28Q680,Middle,EMS,Queens Gateway to Health Sciences Secondary School,0.56,0.95
+28,28Q686,High School,HS,Queens Metropolitan High School,0.59,0.68
+28,28Q687,High School,HS,Queens High School for the Sciences at York Colleg,0.59,0.92
+28,28Q690,High School,HS,High School for Law Enforcement and Public Safety,0.53,0.46
+28,28Q896,High School,HS,"Young Womens Leadership School, Queens",0.73,0.77
+28,28Q896,Middle,EMS,"Young Womens Leadership School, Queens",0.52,0.86
+29,29Q015,Elementary,EMS,P.S. 015 Jackie Robinson,0.19,0.34
+29,29Q033,Elementary,EMS,P.S. 033 Edward M. Funk,0.19,0.5
+29,29Q034,Elementary,EMS,P.S. 034 John Harvard,0.44,0.44
+29,29Q035,Elementary,EMS,P.S. 035 Nathaniel Woodhull,0.39,0.39
+29,29Q036,Elementary,EMS,P.S. 036 Saint Albans School,0.12,0.3
+29,29Q037,Elementary,EMS,Cynthia Jenkins School,0.18,0.25
+29,29Q038,Elementary,EMS,P.S. 038 Rosedale,0.31,0.49
+29,29Q052,Elementary,EMS,P.S. 052 Queens,0.2,0.27
+29,29Q059,Middle,EMS,I.S. 059 Springfield Gardens,0.34,0.35
+29,29Q095,Elementary,EMS,P.S. 095 Eastwood,0.32,0.57
+29,29Q109,Middle,EMS,Jean Nuzzi Intermediate School,0.27,0.45
+29,29Q116,K-8,EMS,P.S./I.S. 116 William C. Hughley,0.29,0.27
+29,29Q118,Elementary,EMS,P.S. 118 Lorraine Hansberry,0.24,0.35
+29,29Q131,Elementary,EMS,P.S. 131 Abigail Adams,0.64,0.76
+29,29Q132,Elementary,EMS,P.S. 132 Ralph Bunche,0.35,0.41
+29,29Q134,Elementary,EMS,P.S. 134 Hollis,0.18,0.3
+29,29Q135,Elementary,EMS,The Bellaire School,0.27,0.46
+29,29Q136,Elementary,EMS,P.S. 136 Roy Wilkins,0.22,0.39
+29,29Q138,K-8,EMS,P.S./M.S. 138 Sunrise,0.39,0.3
+29,29Q147,K-8,EMS,P.S./M.S. 147 Ronald McNair,0.2,0.29
+29,29Q156,Elementary,EMS,P.S. 156 Laurelton,0.08,0.26
+29,29Q176,Elementary,EMS,P.S. 176 Cambria Heights,0.15,0.59
+29,29Q181,Elementary,EMS,P.S. 181 Brookfield,0.53,0.37
+29,29Q192,Middle,EMS,I.S. 192 The Linden,0.29,0.31
+29,29Q195,Elementary,EMS,P.S. 195 William Haberle,0.12,0.25
+29,29Q208,K-8,EMS,P.S./I.S. 208,0.25,0.52
+29,29Q238,Middle,EMS,I.S. 238 - Susan B. Anthony Academy,0.29,0.41
+29,29Q243,High School,HS,Institute for Health Professions at Cambria Height,0.71,0.64
+29,29Q248,High School,HS,Queens Preparatory Academy,0.55,0.38
+29,29Q251,Elementary,EMS,P.S. 251 Queens,0.3,0.43
+29,29Q259,High School,HS,Pathways College Preparatory School: A College Boa,0.2,0.39
+29,29Q259,Middle,EMS,Pathways College Preparatory School: A College Boa,0.24,0.44
+29,29Q265,High School,HS,Excelsior Preparatory High School,0.55,0.48
+29,29Q268,K-8,EMS,P.S./I.S. 268,0.29,0.44
+29,29Q270,K-8,EMS,The Gordon Parks School,0.22,0.43
+29,29Q272,High School,HS,George Washington Carver High School for the Scien,0.54,0.47
+29,29Q283,High School,HS,Preparatory Academy for Writers: A College Board S,0.5,0.53
+29,29Q283,Middle,EMS,Preparatory Academy for Writers: A College Board S,0.5,0.55
+29,29Q289,Middle,EMS,Queens United Middle School,0.15,0.3
+29,29Q295,K-8,EMS,P.S./I.S. 295,0.48,0.6
+29,29Q313,High School,HS,Benjamin Franklin High School for Finance  Inform,0.69,0.47
+29,29Q326,High School,HS,Cambria Heights Academy,0.52,0.5
+29,29Q327,High School,HS,Eagle Academy for Young Men III,0.52,0.46
+29,29Q327,Middle,EMS,Eagle Academy for Young Men III,0.28,0.29
+29,29Q355,Middle,EMS,Collaborative Arts Middle School,0.2,0.26
+29,29Q356,Middle,EMS,Community Voices Middle School,0.39,0.29
+29,29Q492,High School,HS,"Mathematics, Science Research and Technology Magne",0.47,0.36
+29,29Q498,High School,HS,Humanities  Arts Magnet High School,0.56,0.46
+30,30Q002,Elementary,EMS,P.S. 002 Alfred Zimberg,0.71,0.71
+30,30Q010,Middle,EMS,I.S. 010 Horace Greeley,0.55,0.5
+30,30Q011,Elementary,EMS,P.S. 011 Kathryn Phelan,0.61,0.57
+30,30Q017,Elementary,EMS,P.S. 017 Henry David Thoreau,0.33,0.36
+30,30Q069,Elementary,EMS,P.S. 069 Jackson Heights,0.53,0.66
+30,30Q070,Elementary,EMS,P.S. 070,0.55,0.58
+30,30Q076,Elementary,EMS,P.S. 076 William Hallet,0.54,0.35
+30,30Q078,K-8,EMS,P.S./I.S. 78Q,0.46,0.76
+30,30Q084,Elementary,EMS,P.S. 084 Steinway,0.54,0.65
+30,30Q085,Elementary,EMS,P.S. 085 Judge Charles Vallone,0.35,0.63
+30,30Q092,Elementary,EMS,P.S. 092 Harry T. Stewart Sr.,0.54,0.37
+30,30Q111,K-8,EMS,P.S. 111 Jacob Blackwell,0.35,0.16
+30,30Q112,Elementary,EMS,P.S. 112 Dutch Kills,0.36,0.41
+30,30Q122,K-8,EMS,P.S. 122 Mamie Fay,0.48,0.88
+30,30Q126,Middle,EMS,Albert Shanker School for Visual and Performing Ar,0.39,0.43
+30,30Q127,K-8,EMS,P.S. 127 Aerospace Science Magnet School,0.41,0.36
+30,30Q141,Middle,EMS,I.S. 141 The Steinway,0.5,0.67
+30,30Q145,Middle,EMS,I.S. 145 Joseph Pulitzer,0.48,0.47
+30,30Q148,Elementary,EMS,P.S. 148 Queens,0.33,0.4
+30,30Q149,Elementary,EMS,P.S. 149 Christa Mcauliffe,0.36,0.43
+30,30Q150,Elementary,EMS,P.S. 150 Queens,0.53,0.71
+30,30Q151,Elementary,EMS,P.S. 151 Mary D. Carter,0.63,0.39
+30,30Q152,Elementary,EMS,P.S. 152 Gwendoline N. Alleyne School,0.67,0.66
+30,30Q166,Elementary,EMS,P.S. 166 Henry Gradstein,0.48,0.69
+30,30Q171,Elementary,EMS,P.S. 171 Peter G. Van Alst,0.38,0.28
+30,30Q204,Middle,EMS,I.S. 204 Oliver W. Holmes,0.38,0.37
+30,30Q212,Elementary,EMS,P.S. 212,0.42,0.62
+30,30Q227,Middle,EMS,I.S. 227 Louis Armstrong,0.72,0.82
+30,30Q230,Middle,EMS,I.S. 230,0.41,0.58
+30,30Q234,Elementary,EMS,P.S. 234,0.92,0.68
+30,30Q235,Middle,EMS,Academy for New Americans,0.5,0.23
+30,30Q258,High School,HS,Energy Tech High School,0.71,0.74
+30,30Q280,Elementary,EMS,P.S. 280,0.48,0.48
+30,30Q286,High School,HS,"Young Womens Leadership School, Astoria",0.64,0.78
+30,30Q286,Middle,EMS,"Young Womens Leadership School, Astoria",0.43,0.75
+30,30Q291,Middle,EMS,Hunters Point Community Middle School,0.62,0.69
+30,30Q300,K-8,EMS,The 30th Avenue School (GT Citywide),0.55,0.96
+30,30Q301,High School,HS,Academy for Careers in Television and Film,0.79,0.82
+30,30Q329,Elementary,EMS,East Elmhurst Community School,,
+30,30Q445,High School,HS,William Cullen Bryant High School,0.37,0.4
+30,30Q450,High School,HS,Long Island City High School,0.31,0.37
+30,30Q501,High School,HS,Frank Sinatra School of the Arts High School,0.54,0.82
+30,30Q502,High School,HS,Information Technology High School,0.45,0.51
+30,30Q555,High School,HS,Newcomers High School,0.62,0.4
+30,30Q575,High School,HS,Academy of American Studies,0.52,0.76
+30,30Q580,High School,HS,Baccalaureate School for Global Education,0.57,0.89
+30,30Q580,Middle,EMS,Baccalaureate School for Global Education,0.54,0.96
+31,31R001,Elementary,EMS,P.S. 001 Tottenville,0.54,0.62
+31,31R002,Middle,EMS,I.S. R002 George L. Egbert,0.33,0.46
+31,31R003,Elementary,EMS,P.S. 003 The Margaret Gioiosa School,0.54,0.74
+31,31R004,Elementary,EMS,P.S. 004 Maurice Wollin,0.62,0.64
+31,31R005,Elementary,EMS,P.S. 005 Huguenot,0.81,0.96
+31,31R006,Elementary,EMS,P.S. 6 Corporal Allan F. Kivlehan School,0.52,0.65
+31,31R007,Middle,EMS,I.S. 007 Elias Bernstein,0.45,0.71
+31,31R008,Elementary,EMS,P.S. 8 Shirlee Solomon,0.46,0.84
+31,31R009,Elementary,EMS,Naples Street Elementary School,,
+31,31R011,Elementary,EMS,P.S. 11 Thomas Dongan School,0.56,0.47
+31,31R013,Elementary,EMS,P.S. 013 M. L. Lindemeyer,0.45,0.47
+31,31R016,Elementary,EMS,P.S. 016 John J. Driscoll,0.39,0.23
+31,31R018,Elementary,EMS,P.S. 018 John G. Whittier,0.4,0.34
+31,31R019,Elementary,EMS,P.S. 019 The Curtis School,0.31,0.35
+31,31R020,Elementary,EMS,P.S. 020 Port Richmond,0.53,0.34
+31,31R021,Elementary,EMS,P.S. 21 Margaret Emery-Elm Park,0.41,0.33
+31,31R022,Elementary,EMS,P.S. 022 Graniteville,0.54,0.4
+31,31R023,Elementary,EMS,P.S. 023 Richmondtown,0.54,0.73
+31,31R024,Middle,EMS,I.S. 024 Myra S. Barnes,0.29,0.6
+31,31R026,Elementary,EMS,P.S. 026 The Carteret School,0.55,0.69
+31,31R027,Middle,EMS,I.S. 027 Anning S. Prall,0.41,0.5
+31,31R028,High School,HS,The Eagle Academy for Young Men of Staten Island,,
+31,31R028,Middle,EMS,The Eagle Academy for Young Men of Staten Island,0.41,0.3
+31,31R029,Elementary,EMS,P.S. 029 Bardwell,0.33,0.58
+31,31R030,Elementary,EMS,P.S. 030 Westerleigh,0.4,0.67
+31,31R031,Elementary,EMS,P.S. 031 William T. Davis,0.28,0.15
+31,31R032,Elementary,EMS,P.S. 032 The Gifford School,0.37,0.67
+31,31R034,Middle,EMS,I.S. 034 Tottenville,0.52,0.67
+31,31R035,Elementary,EMS,P.S. 35 The Clove Valley School,0.7,0.91
+31,31R036,Elementary,EMS,P.S. 036 J. C. Drumgoole,0.29,0.64
+31,31R038,Elementary,EMS,P.S. 038 George Cromwell,0.17,0.46
+31,31R039,Elementary,EMS,P.S. 39 Francis J. Murphy Jr.,0.49,0.44
+31,31R041,Elementary,EMS,The Stephanie A. Vierno School,0.46,0.59
+31,31R042,Elementary,EMS,P.S. 042 Eltingville,0.43,0.64
+31,31R044,Elementary,EMS,P.S. 044 Thomas C. Brown,0.45,0.19
+31,31R045,Elementary,EMS,P.S. 045 John Tyler,0.39,0.4
+31,31R046,Elementary,EMS,P.S. 046 Albert V. Maniscalco,0.26,0.32
+31,31R047,High School,HS,CSI High School for International Studies,0.67,0.85
+31,31R048,K-8,EMS,P.S. 048 William G. Wilcox,0.48,0.7
+31,31R049,Middle,EMS,I.S. 49 Berta A. Dreyfus,0.28,0.22
+31,31R050,Elementary,EMS,P.S. 050 Frank Hankinson,0.65,0.83
+31,31R051,Middle,EMS,I.S. 051 Edwin Markham,0.32,0.35
+31,31R052,Elementary,EMS,P.S. 052 John C. Thompson,0.44,0.66
+31,31R053,Elementary,EMS,The Barbara Esselborn School,0.51,0.74
+31,31R054,Elementary,EMS,P.S. 054 Charles W. Leng,0.6,0.67
+31,31R055,Elementary,EMS,P.S. 055 Henry M. Boehm,0.29,0.64
+31,31R056,Elementary,EMS,P.S. 56 The Louis Desario School,0.35,0.64
+31,31R057,Elementary,EMS,P.S. 057 Hubert H. Humphrey,0.38,0.26
+31,31R058,Elementary,EMS,Space Shuttle Columbia School,0.43,0.53
+31,31R059,Elementary,EMS,The Harbor View School,,
+31,31R060,Elementary,EMS,P.S. 060 Alice Austen,0.14,0.42
+31,31R061,Middle,EMS,I.S. 061 William A Morris,0.4,0.32
+31,31R063,Middle,EMS,Marsh Avenue School for Expeditionary Learning,0.43,0.67
+31,31R064,High School,HS,Gaynor McCown Expeditionary Learning School,0.47,0.62
+31,31R065,Elementary,EMS,P.S. 65 The Academy of Innovative Learning,0.74,0.68
+31,31R069,Elementary,EMS,P.S. 069 Daniel D. Tompkins,0.36,0.55
+31,31R072,Middle,EMS,I.S. 072 Rocco Laurie,0.4,0.55
+31,31R074,Elementary,EMS,P.S. 74 Future Leaders Elementary School,0.63,0.3
+31,31R075,Middle,EMS,I.S. 075 Frank D. Paulo,0.42,0.66
+31,31R078,Elementary,EMS,P.S. 78,0.33,0.17
+31,31R080,High School,HS,The Michael J. Petrides School,0.39,0.62
+31,31R080,K-8,EMS,The Michael J. Petrides School,0.59,0.6
+31,31R440,High School,HS,New Dorp High School,0.46,0.52
+31,31R445,High School,HS,Port Richmond High School,0.45,0.35
+31,31R450,High School,HS,Curtis High School,0.34,0.37
+31,31R455,High School,HS,Tottenville High School,0.38,0.67
+31,31R460,High School,HS,Susan E. Wagner High School,0.47,0.61
+31,31R470,High School Transfer,HST,Concord High School,0.56,0.44
+31,31R600,High School,HS,Ralph R. McKee Career and Technical Education High,0.49,0.41
+31,31R605,High School,HS,Staten Island Technical High School,0.56,0.92
+31,31R607,YABC,YABC,Staten Island Yabc,0.42,0.31
+31,31R861,K-8,EMS,Staten Island School of Civic Leadership,0.55,0.53
+32,32K045,K-8,EMS,P.S./I.S. 045 Horace E. Greene,0.4,0.35
+32,32K075,Elementary,EMS,P.S. 075 Mayda Cortiella,0.38,0.25
+32,32K086,Elementary,EMS,P.S. 086 The Irvington,0.62,0.39
+32,32K106,Elementary,EMS,P.S. 106 Edward Everett Hale,0.47,0.25
+32,32K116,Elementary,EMS,P.S. 116 Elizabeth L Farrell,0.38,0.32
+32,32K123,Elementary,EMS,P.S. 123 Suydam,0.31,0.32
+32,32K145,Elementary,EMS,P.S. 145 Andrew Jackson,0.33,0.3
+32,32K151,Elementary,EMS,P.S. 151 Lyndon B. Johnson,0.54,0.3
+32,32K162,Middle,EMS,J.H.S. 162 The Willoughby,0.48,0.3
+32,32K168,High School,HS,The Brooklyn School for Math and Research,0.73,0.59
+32,32K274,Elementary,EMS,P.S. 274 Kosciusko,0.52,0.31
+32,32K291,Middle,EMS,J.H.S. 291 Roland Hayes,0.47,0.24
+32,32K299,Elementary,EMS,P.S. 299 Thomas Warren Field,0.32,0.33
+32,32K347,Middle,EMS,I.S. 347 School of Humanities,0.39,0.27
+32,32K349,Middle,EMS,"I.S. 349 Math, Science  Tech.",0.46,0.34
+32,32K376,Elementary,EMS,P.S. 376,0.72,0.72
+32,32K377,K-8,EMS,P.S. 377 Alejandrina B. De Gautier,0.26,0.17
+32,32K383,Middle,EMS,J.H.S. 383 Philippa Schuyler,0.35,0.61
+32,32K384,K-8,EMS,P.S. /I.S. 384 Frances E. Carter,0.39,0.29
+32,32K403,High School,HS,Academy for Environmental Leadership,0.61,0.32
+32,32K545,High School,HS,EBC High School for Public Service - Bushwick,0.52,0.42
+32,32K549,High School,HS,The Brooklyn School for Social Justice,0.47,0.31
+32,32K552,High School,HS,The Academy of Urban Planning and Engineering,0.76,0.4
+32,32K554,High School,HS,All City Leadership Secondary School,0.66,0.78
+32,32K554,Middle,EMS,All City Leadership Secondary School,0.58,0.95
+32,32K556,High School,HS,Bushwick Leaders High School for Academic Excellen,0.49,0.3
+32,32K562,Middle,EMS,Evergreen Middle School for Urban Exploration,0.36,0.26
+32,32K564,High School Transfer,HST,Bushwick Community High School,0.55,0.39
+75,75K004,D75,D75,P.S. K004,,
+75,75K036,D75,D75,P.S. 36,,
+75,75K053,D75,D75,P.S. K053,,
+75,75K077,D75,D75,P.S. K077,,
+75,75K140,D75,D75,P.S. K140,,
+75,75K141,D75,D75,P.S. K141,,
+75,75K231,D75,D75,P.S. K231,,
+75,75K368,D75,D75,P.S. 368,,
+75,75K369,D75,D75,P.S. K369 - Coy L. Cox School,,
+75,75K370,D75,D75,P.S. 370,,
+75,75K371,D75,D75,P.S. 371 - Lillian L. Rashkis,,
+75,75K372,D75,D75,P.S. 372 -The Childrens School,,
+75,75K373,D75,D75,P.S. 373 - Brooklyn Transition Center,,
+75,75K396,D75,D75,P.S. K396,,
+75,75K721,D75,D75,P.S. K721 - Brooklyn Occupational Training Center,,
+75,75K753,D75,D75,P.S. K753 - School for Career Development,,
+75,75K771,D75,D75,P.S. K771,,
+75,75K811,D75,D75,P.S. K811 Connie Lekas School,,
+75,75M035,D75,D75,P.S. 035,,
+75,75M079,D75,D75,P.S. M079 - Horan School,,
+75,75M094,D75,D75,P.S. M094,,
+75,75M138,D75,D75,P.S. 138,,
+75,75M169,D75,D75,P.S. M169 - Robert F. Kennedy,,
+75,75M226,D75,D75,P.S. M226,,
+75,75M721,D75,D75,P.S. M721 - Manhattan Occupational Training Center,,
+75,75M751,D75,D75,Manhattan School for Career Development,,
+75,75M811,D75,D75,P.S. M811 - Mickey Mantle School,,
+75,75Q004,D75,D75,P.S. Q004,,
+75,75Q009,D75,D75,P.S. 009,,
+75,75Q023,D75,D75,P.S. Q023  Queens Children Center,,
+75,75Q075,D75,D75,Robert E. Peary School,,
+75,75Q177,D75,D75,P.S. Q177,,
+75,75Q224,D75,D75,P.S. Q224,,
+75,75Q233,D75,D75,P.S. Q233,,
+75,75Q255,D75,D75,P.S. Q255,,
+75,75Q256,D75,D75,P.S. Q256,,
+75,75Q277,D75,D75,The Riverview School,,
+75,75Q721,D75,D75,John F. Kennedy Jr. School,,
+75,75Q752,D75,D75,Queens Transition Center,,
+75,75Q811,D75,D75,P.S. Q811,,
+75,75Q993,D75,D75,P.S. Q993,,
+75,75R025,D75,D75,South Richmond High School I.S./P.S. 25,,
+75,75R037,D75,D75,P.S. R037,,
+75,75R373,D75,D75,P.S. R373,,
+75,75R721,D75,D75,The Richard H. Hungerford School,,
+75,75X010,D75,D75,P.S. X010,,
+75,75X012,D75,D75,P.S. X012 Lewis and Clark School,,
+75,75X017,D75,D75,P.S. X017,,
+75,75X168,D75,D75,P.S. 168,,
+75,75X176,D75,D75,P.S. X176,,
+75,75X186,D75,D75,P186X Walter J. Damrosch School,,
+75,75X188,D75,D75,P.S. X188,,
+75,75X352,D75,D75,The Vida Bogart School for All Children,,
+75,75X469,D75,D75,P469X - The Bronx School for Continuous Learners,,
+75,75X721,D75,D75,P.S. X721 - Stephen McSweeney School,,
+75,75X723,D75,D75,P.S. 723,,
+75,75X754,D75,D75,J. M. Rapport School Career Development,,
+75,75X811,D75,D75,P.S. X811,,
+14,84K037,Elementary,EMS,Beginning with Children Charter School II,0.51,0.63
+14,84K125,Elementary,EMS,Success Academy Charter School - Bed-Stuy 2,0.81,0.99
+15,84K129,Elementary,EMS,Success Academy Charter School - Cobble Hill,0.71,0.93
+14,84K182,Elementary,EMS,Success Academy Charter School - Williamsburg,0.94,0.99
+17,84K333,K-8,EMS,Explore Exceed Charter School,0.57,0.38
+14,84K355,Middle,EMS,Williamsburg Collegiate Charter School,0.72,0.63
+17,84K356,High School,HS,Achievement First Crown Heights Charter School,0.31,0.6
+17,84K356,K-8,EMS,Achievement First Crown Heights Charter School,0.56,0.61
+17,84K357,High School,HS,KIPP AMP Charter School,0.58,0.7
+17,84K357,K-8,EMS,KIPP AMP Charter School,0.54,0.5
+19,84K358,High School,HS,Achievement First East New York Charter School,0.44,0.62
+19,84K358,K-8,EMS,Achievement First East New York Charter School,0.65,0.72
+19,84K359,High School,HS,The Uft Charter School,0.56,0.45
+16,84K360,Middle,EMS,Launch Expeditionary Learning Charter School,0.37,0.3
+15,84K362,K-8,EMS,Hellenic Classical Charter School,0.33,0.68
+14,84K367,K-8,EMS,Success Academy Charter School - Bed-Stuy 1,0.74,0.99
+18,84K379,K-8,EMS,Explore Excel Charter School,0.69,0.46
+19,84K386,Middle,EMS,Invictus Preparatory Charter School,0.29,0.25
+23,84K395,High School Transfer,HST,New Visions A.I.M. Charter High School I,0.26,0.19
+16,84K406,K-8,EMS,"EMBER Charter School for Mindful Education, Innova",0.3,0.42
+13,84K417,High School Transfer,HST,Urban Dove Charter School,0.36,0.27
+14,84K473,High School,HS,Williamsburg Charter High School,0.34,0.42
+15,84K486,High School Transfer,HST,New Dawn Charter High School,0.51,0.31
+13,84K508,High School,HS,Achievement First Endeavor Charter School,0.32,0.61
+13,84K508,K-8,EMS,Achievement First Endeavor Charter School,0.58,0.62
+13,84K517,High School,HS,Leadership Prep Bedford Stuyvesant Uncommon Prep C,0.32,0.5
+13,84K517,K-8,EMS,Leadership Prep Bedford Stuyvesant Uncommon Prep C,0.54,0.7
+13,84K536,K-8,EMS,Community Roots Charter School,0.38,0.55
+32,84K538,High School,HS,Achievement First Bushwick Charter School,0.36,0.67
+32,84K538,K-8,EMS,Achievement First Bushwick Charter School,0.83,0.78
+16,84K593,K-8,EMS,Excellence Boys Charter School,0.46,0.63
+18,84K608,High School,HS,Kings Collegiate Charter School,,
+18,84K608,Middle,EMS,Kings Collegiate Charter School,0.71,0.62
+23,84K626,High School,HS,Achievement First Brownsville Charter School,0.34,0.6
+23,84K626,K-8,EMS,Achievement First Brownsville Charter School,0.51,0.58
+16,84K648,Middle,EMS,Bedford Stuyvesant Collegiate Charter School,0.73,0.62
+16,84K649,Elementary,EMS,La Cima Charter School,0.14,0.33
+15,84K651,K-8,EMS,PAVE Academy Charter School,0.49,0.52
+18,84K652,High School,HS,Brooklyn Ascend Charter School,0.48,0.56
+18,84K652,K-8,EMS,Brooklyn Ascend Charter School,0.68,0.64
+19,84K680,Elementary,EMS,Achievement First Aspire Charter School,0.56,0.72
+14,84K689,Elementary,EMS,Citizens of the World Charter School 1 Williamsbur,0.44,0.32
+17,84K692,Elementary,EMS,Citizens of the World Charter School New York 2 Cr,0.4,0.37
+14,84K693,High School,HS,Northside Charter High School,0.35,0.44
+14,84K701,Elementary,EMS,Brooklyn Charter School,0.66,0.61
+13,84K702,K-8,EMS,Community Partnership Charter School,0.34,0.35
+17,84K704,K-8,EMS,Explore Charter School,0.47,0.46
+15,84K707,High School,HS,Brooklyn Prospect Charter School,0.43,0.63
+15,84K707,Middle,EMS,Brooklyn Prospect Charter School,0.47,0.72
+23,84K710,Middle,EMS,Brownsville Collegiate Charter School,0.65,0.46
+23,84K711,K-8,EMS,Leadership Preparatory Brownsville Charter School,0.59,0.61
+16,84K712,High School,HS,Excellence Girls Charter School,0.37,0.65
+16,84K712,K-8,EMS,Excellence Girls Charter School,0.46,0.68
+18,84K724,K-8,EMS,Leadership Prep Canarsie Charter School (Leadershi,0.62,0.62
+15,84K730,High School,HS,Summit Academy Charter School,0.44,0.45
+15,84K730,Middle,EMS,Summit Academy Charter School,0.56,0.37
+16,84K731,K-8,EMS,Brooklyn Excelsior Charter School,0.69,0.5
+32,84K733,High School,HS,"Math, Engineering, and Science Academy Charter Hig",0.69,0.58
+18,84K736,Elementary,EMS,New American Academy Charter School,0.46,0.44
+23,84K737,K-8,EMS,Brownsville Ascend Charter School,0.34,0.48
+22,84K738,High School,HS,New Visions Charter High School for Advanced Math,0.54,0.57
+22,84K739,High School,HS,New Visions Charter High School for the Humanities,0.34,0.36
+19,84K740,K-8,EMS,Brooklyn Scholars Charter School,0.29,0.49
+17,84K741,Elementary,EMS,Success Academy Crown Heights (Brooklyn 7),0.82,1
+17,84K742,K-8,EMS,Explore Empower Charter School,0.58,0.4
+21,84K744,High School,HS,Coney Island Preparatory Public Charter School,0.52,0.67
+21,84K744,K-8,EMS,Coney Island Preparatory Public Charter School,0.68,0.49
+22,84K746,K-8,EMS,Hebrew Language Academy Charter School,0.24,0.43
+13,84K752,Elementary,EMS,Success Academy Fort Greene (Brooklyn 5),0.8,0.98
+17,84K756,Elementary,EMS,Success Academy Prospect Heights (Brooklyn 6),0.66,0.99
+13,84K757,High School,HS,Unity Prep Charter School,0.56,0.47
+13,84K757,Middle,EMS,Unity Prep Charter School,0.24,0.29
+15,84K758,Middle,EMS,Brooklyn Urban Garden Charter School,0.45,0.54
+18,84K759,Elementary,EMS,Canarsie Ascend Charter School,0.79,0.76
+19,84K769,Elementary,EMS,Hyde Leadership Charter School- Brooklyn,0.5,0.46
+21,84K772,Elementary,EMS,Success Academy Charter School - Bensonhurst - New,,
+19,84K774,K-8,EMS,Achievement First Apollo Charter School,0.73,0.67
+23,84K775,High School,HS,Leadership Preparatory Ocean Hill Charter School,0.35,0.69
+23,84K775,K-8,EMS,Leadership Preparatory Ocean Hill Charter School,0.4,0.7
+23,84K777,Middle,EMS,Ocean Hill Collegiate Charter School,0.69,0.64
+13,84K780,Middle,EMS,Brooklyn East Collegiate Charter School,0.65,0.52
+22,84K781,Elementary,EMS,Success Academy Charter School - Bergen Beach - Ne,,
+16,84K782,K-8,EMS,Bedford Stuyvesant New Beginnings Charter School,0.48,0.4
+32,84K784,Elementary,EMS,Achievement First North Brooklyn Prep Charter Scho,,
+19,84K785,Elementary,EMS,Imagine Me Leadership Charter School,0.39,0.74
+19,84K788,Elementary,EMS,Achievement First Linden Elementary School,,
+13,84K789,Elementary,EMS,Compass Charter School,,
+22,84K790,Elementary,EMS,Central Brooklyn Ascend Charter School,,
+22,84K791,K-8,EMS,Brooklyn Dreams Charter School,0.31,0.44
+18,84K792,Elementary,EMS,The Cultural Arts Academy at Spring Creek Charter,0.05,0.35
+32,84K793,K-8,EMS,Bushwick Ascend Charter School,0.63,0.53
+18,84K797,Elementary,EMS,New Hope Academy Charter School,0.06,0.4
+13,84K803,High School,HS,Brooklyn LABCharter School,,
+13,84K803,Middle,EMS,Brooklyn LABCharter School,0.47,0.34
+19,84K807,Middle,EMS,Collegiate Academy for Math and Personal Awareness,0.54,0.34
+17,84K876,Middle,EMS,Achievement First Voyager Charter School,0.53,0.45
+13,84K879,K-8,EMS,Brooklyn Prospect Charter School Downtown,0.46,0.73
+16,84K892,High School,HS,Brooklyn Emerging Leaders Academy,,
+5,84M065,High School,HS,Democracy Prep Endurance Charter School,0.47,0.58
+5,84M065,Middle,EMS,Democracy Prep Endurance Charter School,0.66,0.48
+6,84M068,High School,HS,KIPP Washington Heights Middle School,0.44,0.67
+6,84M068,K-8,EMS,KIPP Washington Heights Middle School,0.72,0.66
+1,84M080,Elementary,EMS,Manhattan Charter School II,0.5,0.51
+5,84M085,Elementary,EMS,Global Community Charter School,0.42,0.41
+5,84M100,Elementary,EMS,Neighborhood Charter School of Harlem,0.85,0.76
+4,84M168,Elementary,EMS,East Harlem Scholars Academy Charter School II,0.39,0.38
+2,84M170,Elementary,EMS,Success Academy Hells Kitchen (Manhattan 2),0.94,1
+2,84M174,Elementary,EMS,Success Academy Union Square (Manhattan 1),0.88,1
+3,84M186,Elementary,EMS,Harlem Hebrew Language Charter School,0.17,0.4
+1,84M202,Middle,EMS,Great Oaks Charter School,0.28,0.34
+4,84M204,Middle,EMS,Capital Preparatory (CP) Harlem Charter School,0.32,0.35
+2,84M263,Middle,EMS,New York City Charter School of the Arts,0.04,0.43
+6,84M265,Elementary,EMS,Success Academy Charter School - Washington Height,,
+3,84M279,High School,HS,The Opportunity Charter School,0.55,0.31
+3,84M279,Middle,EMS,The Opportunity Charter School,0.37,0.18
+5,84M284,High School,HS,Harlem Childrens Zone Promise Academy 1 Charter S,0.66,0.71
+5,84M284,K-8,EMS,Harlem Childrens Zone Promise Academy 1 Charter S,0.37,0.59
+6,84M295,Middle,EMS,School in the Square Public Charter School,0.5,0.39
+1,84M320,Elementary,EMS,Manhattan Charter School,0.65,0.57
+3,84M329,Elementary,EMS,Harlem Link Charter School,0.29,0.34
+1,84M330,K-8,EMS,Girls Preparatory Charter School of New York,0.62,0.58
+4,84M335,High School,HS,Harlem Village Academy Leadership Charter School,0.49,0.67
+4,84M335,K-8,EMS,Harlem Village Academy Leadership Charter School,0.7,0.49
+5,84M336,High School,HS,KIPP Infinity Charter School,0.37,0.65
+5,84M336,K-8,EMS,KIPP Infinity Charter School,0.69,0.64
+4,84M337,D75,D75,New York Center for Autism Charter School,,
+5,84M341,High School,HS,Harlem Childrens Zone Promise Academy II Charter,0.57,0.71
+5,84M341,K-8,EMS,Harlem Childrens Zone Promise Academy II Charter,0.45,0.61
+5,84M350,High School,HS,Democracy Prep Charter School,0.46,0.68
+5,84M350,Middle,EMS,Democracy Prep Charter School,0.7,0.52
+3,84M351,High School,HS,Success Academy Charter School - Harlem 1,0.35,0.56
+3,84M351,K-8,EMS,Success Academy Charter School - Harlem 1,0.71,0.82
+6,84M353,High School,HS,New Heights Academy Charter School,0.69,0.66
+6,84M353,Middle,EMS,New Heights Academy Charter School,0.49,0.41
+4,84M382,High School,HS,DREAM Charter School,,
+4,84M382,K-8,EMS,DREAM Charter School,0.54,0.49
+5,84M384,K-8,EMS,Success Academy Charter School - Harlem 2,0.7,0.85
+4,84M385,High School,HS,Success Academy Charter School - Harlem 3,,
+4,84M385,K-8,EMS,Success Academy Charter School - Harlem 3,0.75,0.79
+3,84M386,K-8,EMS,Success Academy Charter School - Harlem 4,0.82,0.88
+5,84M388,Middle,EMS,St. HOPE Leadership Academy Charter School,0.7,0.4
+6,84M430,Middle,EMS,The Equity Project Charter School (TEP),0.72,0.53
+4,84M433,High School,HS,Renaissance Charter High School for Innovation,0.49,0.25
+6,84M478,High School,HS,Inwood Academy for Leadership Charter School,0.33,0.39
+6,84M478,Middle,EMS,Inwood Academy for Leadership Charter School,0.45,0.38
+5,84M481,High School,HS,Democracy Prep Harlem Charter School,0.43,0.57
+5,84M481,K-8,EMS,Democracy Prep Harlem Charter School,0.53,0.45
+5,84M482,K-8,EMS,Success Academy Charter School - Harlem 5,0.75,0.87
+3,84M483,Elementary,EMS,New York French American Charter School,0.17,0.49
+4,84M518,K-8,EMS,East Harlem Scholars Academy Charter School,0.52,0.48
+2,84M522,High School,HS,Broome Street Academy Charter School,0.51,0.35
+3,84M523,K-8,EMS,Success Academy Charter School - Upper West,0.86,1
+3,84M702,Elementary,EMS,Sisulu-Walker Charter School of Harlem,0.51,0.56
+4,84M704,K-8,EMS,Harbor Science and Arts Charter School,0.34,0.39
+4,84M705,Elementary,EMS,Amber Charter School,0.37,0.6
+2,84M707,High School Transfer,HST,John V. Lindsay Wildcat Academy Charter School,0.5,0.31
+4,84M708,High School,HS,Harlem Prep Charter School,0.48,0.48
+4,84M708,K-8,EMS,Harlem Prep Charter School,0.35,0.38
+5,84M709,High School,HS,Harlem Village Academy Charter School,0.44,0.66
+5,84M709,K-8,EMS,Harlem Village Academy Charter School,0.57,0.55
+5,84M726,High School,HS,KIPP STAR College Prep Charter School,0.63,0.65
+5,84M726,K-8,EMS,KIPP STAR College Prep Charter School,0.77,0.56
+3,84M861,K-8,EMS,Future Leaders Institute Charter School,0.36,0.38
+24,84Q083,Middle,EMS,Central Queens Academy Charter School,0.7,0.69
+27,84Q170,Elementary,EMS,Peninsula Preparatory Academy Charter School,0.61,0.59
+24,84Q298,Middle,EMS,Middle Village Prep Charter School,0.51,0.78
+30,84Q304,K-8,EMS,VOICE Charter School of New York,0.54,0.52
+27,84Q320,High School,HS,New Visions Charter High School for Advanced Math,0.32,0.51
+30,84Q321,K-8,EMS,Growing Up Green Charter School,0.44,0.54
+29,84Q337,Elementary,EMS,Success Academy Charter School - Rosedale - New Yo,,
+29,84Q339,Elementary,EMS,Success Academy Charter School - Springfield Garde,,
+27,84Q340,K-8,EMS,Challenge Preparatory Charter School,0.17,0.4
+29,84Q341,K-8,EMS,Riverton Street Charter School,0.35,0.5
+28,84Q342,Elementary,EMS,Rochdale Early Advantage Charter School,0.24,0.61
+30,84Q359,Elementary,EMS,Academy of the City Charter School,0.45,0.69
+27,84Q373,High School,HS,New Visions Charter High School for the Humanities,,
+24,84Q380,Middle,EMS,Forte Preparatory Academy Charter School,,
+29,84Q704,Elementary,EMS,Merrick Academy - Queens Public Charter School,0.38,0.39
+30,84Q705,High School,HS,Renaissance Charter School,0.53,0.7
+30,84Q705,K-8,EMS,Renaissance Charter School,0.59,0.62
+30,84Q706,K-8,EMS,Our World Neighborhood Charter School,0.36,0.59
+31,84R012,High School Transfer,HST,New Ventures Charter School,0.65,0.66
+31,84R067,High School,HS,John W. Lavelle Preparatory Charter School,0.71,0.69
+31,84R067,K-8,EMS,John W. Lavelle Preparatory Charter School,0.42,0.36
+31,84R073,Middle,EMS,New World Preparatory Charter School,0.47,0.43
+12,84X124,Elementary,EMS,Childrens Aid College Prep Charter School,0.26,0.54
+9,84X133,K-8,EMS,Icahn Charter School 6,0.35,0.6
+8,84X165,K-8,EMS,Grand Concourse Charter School,0.56,0.59
+9,84X177,Middle,EMS,Mott Hall Charter School,0.44,0.35
+12,84X185,High School,HS,Bronx Lighthouse Charter School,0.55,0.61
+12,84X185,K-8,EMS,Bronx Lighthouse Charter School,0.3,0.31
+12,84X200,High School Transfer,HST,New Visions A.I.M. Charter High School II,0.2,0.16
+8,84X202,High School,HS,New Visions Charter High School for Advanced Math,0.82,0.65
+7,84X208,High School,HS,New Visions Charter High School for the Humanities,0.53,0.4
+7,84X233,K-8,EMS,Family Life Academy Charter School II,0.69,0.69
+11,84X255,K-8,EMS,Bronx Charter School for Excellence,0.32,0.6
+7,84X256,Elementary,EMS,Heketi Community Charter School,0.35,0.32
+7,84X309,Elementary,EMS,South Bronx Charter School for International Cultu,0.66,0.62
+8,84X345,High School,HS,Hyde Leadership Charter School,0.47,0.56
+8,84X345,K-8,EMS,Hyde Leadership Charter School,0.63,0.49
+12,84X346,K-8,EMS,South Bronx Classical Charter School,0.71,0.82
+10,84X347,High School,HS,International Leadership Charter High School,0.58,0.62
+8,84X362,Elementary,EMS,Icahn Charter School 7,0.44,0.72
+7,84X364,Elementary,EMS,South Bronx Classical Charter School II,0.98,1
+11,84X378,K-8,EMS,Icahn Charter School 2,0.62,0.86
+8,84X380,Elementary,EMS,Success Academy Charter School - Bronx 3,0.96,0.99
+7,84X387,Elementary,EMS,Brilla College Prep Charter School,0.53,0.58
+7,84X389,K-8,EMS,Bronx Global Learning Institute for Girls Charter,0.22,0.44
+7,84X393,High School,HS,University Prep Charter High School,0.7,0.64
+7,84X394,Elementary,EMS,Mott Haven Academy Charter School,0.51,0.54
+7,84X395,High School,HS,"NYC Charter High School for Architecture, Engineer",0.82,0.62
+10,84X398,K-8,EMS,Bronx Community Charter School,0.3,0.39
+7,84X407,Elementary,EMS,Bronx Charter School for Children,0.23,0.49
+9,84X419,K-8,EMS,Bronx Academy of Promise Charter School,0.51,0.55
+11,84X422,K-8,EMS,Icahn Charter School 3,0.7,0.72
+10,84X429,High School,HS,Charter High School for Law and Social Justice,0.34,0.39
+10,84X460,Middle,EMS,Atmosphere Charter School,0.4,0.35
+9,84X461,High School,HS,Metropolitan Lighthouse Charter School,,
+9,84X461,K-8,EMS,Metropolitan Lighthouse Charter School,0.28,0.39
+8,84X464,Elementary,EMS,Success Academy Charter School - Bronx 4 - New Yor,,
+8,84X465,Elementary,EMS,Boys Preparatory Charter School of New York,,
+7,84X471,High School,HS,American Dream Charter School,,
+7,84X471,Middle,EMS,American Dream Charter School,0.38,0.45
+7,84X472,Elementary,EMS,Family Life Academy Charter School III,,
+12,84X482,High School,HS,Dr. Richard Izquierdo Health and Science Charter S,0.72,0.62
+12,84X482,Middle,EMS,Dr. Richard Izquierdo Health and Science Charter S,0.54,0.46
+8,84X487,K-8,EMS,Girls Preparatory Charter School of the Bronx,0.66,0.56
+11,84X488,High School,HS,The Equality Charter School,0.62,0.53
+11,84X488,Middle,EMS,The Equality Charter School,0.34,0.41
+7,84X491,K-8,EMS,Academic Leadership Charter School,0.72,0.63
+8,84X492,Middle,EMS,South Bronx Early College Academy Charter School,0.24,0.26
+7,84X493,K-8,EMS,Success Academy Charter School - Bronx 1,0.7,0.88
+9,84X494,K-8,EMS,Success Academy Charter School - Bronx 2,0.82,0.89
+11,84X496,K-8,EMS,Icahn Charter School 4,0.55,0.84
+11,84X538,K-8,EMS,Icahn Charter School 5,0.49,0.8
+10,84X539,High School,HS,New Visions Charter High School for Advanced Math,0.5,0.56
+10,84X553,High School,HS,New Visions Charter High School for the Humanities,0.64,0.53
+7,84X554,Elementary,EMS,New York City Montessori Charter School,0.52,0.29
+7,84X581,High School,HS,South Bronx Community Charter School,0.2,0.39
+7,84X585,Middle,EMS,Legacy College Preparatory,,
+12,84X587,D75,D75,New York Center for Autism Charter School Bronx,,
+9,84X703,High School,HS,Bronx Preparatory Charter School,0.61,0.61
+9,84X703,Middle,EMS,Bronx Preparatory Charter School,0.37,0.39
+7,84X704,High School,HS,KIPP Academy Charter School,0.62,0.68
+7,84X704,K-8,EMS,KIPP Academy Charter School,0.72,0.6
+9,84X705,Elementary,EMS,Family Life Academy Charter School,0.35,0.53
+9,84X706,K-8,EMS,Harriet Tubman Charter School,0.47,0.54
+9,84X717,K-8,EMS,Icahn Charter School,0.27,0.65
+11,84X718,Elementary,EMS,Bronx Charter School for Better Learning,0.42,0.69
+8,84X730,Elementary,EMS,Bronx Charter School for the Arts,0.23,0.52

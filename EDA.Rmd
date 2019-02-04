@@ -48,9 +48,12 @@ schoolMap %>%
 ggplot(aes(poverty_percentage, performance, color = school_type.x)) +
   geom_smooth() +
   geom_point() +
+  geom_jitter() +
     geom_hline(yintercept = .5095, color = "Black" )
 
 
+write.csv(schoolMap, "data/d3Scatter.csv"  )
 
 
 ```
+
